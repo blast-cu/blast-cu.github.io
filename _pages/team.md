@@ -25,6 +25,7 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
+  <p>{{ member.homepage }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -76,10 +77,10 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 
 
 
-## PhD students
+## PhD Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.master %}
+{% for member in site.data.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -90,6 +91,8 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
+  <p>{{ member.homepage }}</p>
+  <p>{{ member.info }}</p>
   <ul style="overflow: hidden">
 
   </ul>
@@ -123,6 +126,8 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
+  <p>{{ member.homepage }}</p>
+  <p>{{ member.info }}</p>
   <ul style="overflow: hidden">
 
   </ul>

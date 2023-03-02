@@ -1,6 +1,7 @@
 - name: Maria Leonor Pacheco
   photo: photoML.jpg
   info: Assistant Professor
+  homepage: <a href="https://mlpacheco.github.io">Homepage</a>
   number_educ: 2
   education1: PhD at Purdue University with <a href="https://www.cs.purdue.edu/homes/dgoldwas/">Dan Goldwasser</a>
   education2: Postdoc at Microsoft Research NYC

@@ -9,5 +9,6 @@
 #  education4:
 
 - name: Master Student 1
-  photo: 
-  email: email
+  photo: grad_student.png
+  homepage: <a href="">Homepage</a>
+  info: 
