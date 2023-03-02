@@ -1,21 +1,19 @@
 ---
-title: "Allan Lab - Team"
+title: "BLAST - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "BLAST: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate students](#undergrad).
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
+## Faculty
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -78,9 +76,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## PhD students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -132,10 +130,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+## Master Students
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.master %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -165,12 +163,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Undergraduate Students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+{% for member in site.data.undergrad %}
 {{ member.name }}
 {% endfor %}
 </div>
@@ -191,6 +189,3 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
