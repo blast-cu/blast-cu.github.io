@@ -16,9 +16,9 @@ can effecitively support research in other disciplines, with a particular emphas
 * Explainable, knowledge-infused NLP methods (e.g. structured
 prediction, relational learning and neuro-symbolic methods)
 * Interactive and human-in-the-loop learning for NLP
-* Discourse analysis and argument mining
+* Discourse, pragmatics and argumentation
 * Narrative modeling and understanding
-* Text as data: the study of social and cultural phenomena through the
+* Text as data; the study of social and cultural phenomena through the
 computational analysis of language
 
 
