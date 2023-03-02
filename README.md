@@ -1,2 +1,1 @@
-# blast-cu.github.io
-Research lab webpage
+# Research Group Website

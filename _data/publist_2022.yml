@@ -1,0 +1,24 @@
+- title: "Interactively Uncovering Latent Arguments in Social Media Platforms: A Case Study on the Covid-19 Vaccine Debate"
+  authors: ML Pacheco, T Islam, L Ungar, M Yin, D Goldwasser
+  venue: "Proceedings of the Fourth Workshop on Data Science with Human in the Loop: Language Advances (DaSH @ EMNLP 2022, to appear)"
+  link:
+    url: https://aclanthology.org/2022.dash-1.13/
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code - Upcoming\]
+  highlight: 0
+  year: 2022
+
+- title: "Hands-On Interactive Neuro-Symbolic NLP with DRaiL"
+  authors: ML Pacheco, S Roy, D Goldwasser
+  venue: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP-demo 2022, to appear)"
+  link:
+    url: https://aclanthology.org/2022.emnlp-demos.37.pdf
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code - Upcoming\]
+  highlight: 0
+  year: 2022
+

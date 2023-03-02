@@ -1,0 +1,23 @@
+- title: "Identifying Collaborative Conversations using Latent Discourse Behaviors"
+  authors: A Jain, ML Pacheco, S Lancette, M Goindani, D Goldwasser
+  venue: "Proceedings of the 21th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2020)"
+  link:
+    url: https://aclanthology.org/2020.sigdial-1.10/
+    display: \[Paper\]
+  code:
+    url: https://gitlab.com/ayush-jain/collaborative-yahoo-discourse
+    display: \[Code\]
+  highlight: 0
+  year: 2020
+
+- title: "Weakly-Supervised Modeling of Contextualized Event Embedding for Discourse Relations"
+  authors: IT Lee, ML Pacheco, D Goldwasser
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2020"
+  link:
+    url: https://aclanthology.org/2020.findings-emnlp.446/
+    display: \[Paper\]
+  code:
+    url: https://github.com/doug919/narrative_graph_emnlp2020
+    display: \[Code\]
+  highlight: 0
+  year: 2020
