@@ -1,7 +1,7 @@
 ---
-title: "M.L. Pacheco - Publications"
+title: "BLAST - Publications"
 layout: gridlay
-excerpt: "M.L. Pacheco -- Publications."
+excerpt: "BLAST -- Publications."
 sitemap: false
 permalink: /publications/
 ---
