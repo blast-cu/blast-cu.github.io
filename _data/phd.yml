@@ -8,13 +8,15 @@
 #  education3:
 #  education4:
 
-- name: PhD Student 1
+- name: Alex Leto
   photo: grad_student.png
   homepage: <a href="">Homepage</a>
+  year: Joining Fall 2023
   info: 
 
-- name: PhD Student 2
+- name: Juan Vasquez
   photo: grad_student.png
   homepage: <a href="">Homepage</a>
-  info: 
+  year: Joining Fall 2023
+  info: Co-advised with <a href="">Alexis Palmer</a>
 
