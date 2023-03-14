@@ -92,6 +92,7 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <p>{{ member.homepage }}</p>
+  <p>{{ member.year }}</p>
   <p>{{ member.info }}</p>
   <ul style="overflow: hidden">
 
