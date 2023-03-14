@@ -11,7 +11,7 @@ permalink: /publications/
 
 Selected papers by BLAST members (Starting 2022)
 
-## 2022
+### 2022
 
 {% for publi in site.data.publist_2022 %}
 
