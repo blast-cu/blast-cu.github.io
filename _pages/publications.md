@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-Selected papers by BLAST members (Starting 2022)
+Selected papers by BLAST members (Starting July 2022)
 
 ### 2022
 
