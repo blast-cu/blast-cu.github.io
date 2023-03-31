@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Publications
+## Publications
 
 Papers by BLAST members (Starting July 2022)
 
