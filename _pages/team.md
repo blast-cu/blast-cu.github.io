@@ -85,4 +85,7 @@ Jump to [PhD students](#phd), [Master students](#masters)
 
 ### Master Students
 
-{% for member in site.data.master %} {{ member.name }} {% endfor %}
+{% for member in site.data.master %} 
+<h5><a href="{{member.homepage}}">{{ member.name }}</a></h5>
+<p>{{ member.info }}</p>
+{% endfor %}
