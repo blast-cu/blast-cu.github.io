@@ -7,7 +7,10 @@ layout: default
 
 	{{ content }}
   </div>
+  <div class="col-sm-4">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/black_.logo.png" class="img-responsive" width="100%" style="float: left" />
+  </div>
+  <br>
   <div id="newsid" class="col-sm-4" >
-	<img src="{{ site.url }}{{ site.baseurl }}/images/darkblue_.logo.png" class="img-responsive" width="100%" style="float: left" />
 	{% include news.html %}
   </div>
