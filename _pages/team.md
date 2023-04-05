@@ -6,12 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+## Group Members
 
 
 Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate students](#undergrad).
 
-## Faculty
+### Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
 
@@ -77,7 +77,7 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 
 
 
-## PhD Students
+### PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
@@ -113,7 +113,7 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 {% endif %}
 
 
-## Master Students
+### Master Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
@@ -147,7 +147,7 @@ Jump to [PhD students](#phd), [Master students](#masters), [Undergraduate studen
 </div>
 {% endif %}
 
-## Undergraduate Students
+### Undergraduate Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.undergrad %}
