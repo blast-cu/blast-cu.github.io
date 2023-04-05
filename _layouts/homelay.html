@@ -8,11 +8,10 @@ layout: default
 	{{ content }}
   </div>
   <div class="col-sm-4">
-      <div>
-      <img src="{{ site.url }}{{ site.baseurl }}/images/darkblue_.logo.png" class="img-responsive" width="100%" style="float: left" />
-      </div>
-      <br><br>
-      <div id="newsid">
-	{% include news.html %}
-      </div>
+     <img src="{{ site.url }}{{ site.baseurl }}/images/darkblue_.logo.png" class="img-responsive" width="100%" style="float: left" />
   </div>
+  <br>
+  <div class="col-sm-4" id="newsid">
+    {% include news.html %}
+  </div>
+
