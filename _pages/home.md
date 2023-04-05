@@ -10,8 +10,7 @@ Welcome to the webpage of the Boulder Language and Social Technologies research 
 Science at the University of Colorado at Boulder](https://www.colorado.edu/cs/).
 
 At BLAST we work at the intersection of Natural Language Processing and
-Computational Social Science. We are passionate about developing NLP systems that
-can effecitively support research in other disciplines, with a particual emphasis in societally relevant problems. To this purpose, we maintain a research agenda that balances methods and applications. Some of our current areas of interest are:
+Computational Social Science. We are passionate about addressing societally relevant problems through the computational analysis of language. To this purpose, we maintain a research agenda that balances methods and applications. Some of our current areas of interest are:
 
 * Explainable, knowledge-infused NLP methods (e.g. structured
 prediction, relational learning and neuro-symbolic methods)
