@@ -1,6 +1,6 @@
 - title: "Interactively Uncovering Latent Arguments in Social Media Platforms: A Case Study on the Covid-19 Vaccine Debate"
   authors: <mark>ML Pacheco</mark>, T Islam, L Ungar, M Yin, D Goldwasser
-  venue: "Proceedings of the Fourth Workshop on Data Science with Human in the Loop: Language Advances (DaSH @ EMNLP 2022, to appear)"
+  venue: "Proceedings of the Fourth Workshop on Data Science with Human in the Loop: Language Advances (DaSH @ EMNLP 2022)"
   link:
     url: https://aclanthology.org/2022.dash-1.13/
     display: \[Paper\]
@@ -14,7 +14,7 @@
   authors: <mark>ML Pacheco</mark>, S Roy, D Goldwasser
   venue: "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP-demo 2022, to appear)"
   link:
-    url: https://aclanthology.org/2022.emnlp-demos.37.pdf
+    url: https://aclanthology.org/2022.emnlp-demos.37/
     display: \[Paper\]
   code:
     url: https://gitlab.com/purdueNlp/DRaiL
