@@ -6,4 +6,8 @@ sitemap: false
 permalink: /joining/
 ---
 
-### Joining Us
+## Joining Us
+
+- **If you are a current student at CU** come talk to Prof. Maria Pacheco about your research interests and ideas!
+- **If you are prospective PhD student** please [apply to CU](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) and mention Prof. Maria Pacheco in your application. We will carefully consider all applications of students interested in working with us. 
+- We do not have positions available for students or researchers outside of CU. 
