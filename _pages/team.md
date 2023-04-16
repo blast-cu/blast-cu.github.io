@@ -11,7 +11,6 @@ permalink: /team/
 
 Jump to [PhD students](#phd), [Master students](#masters)
 
-### Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
 
