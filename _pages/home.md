@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the webpage of the Boulder Language, Information and Social Technologies research group (BLIST). We are based in the [Department of Computer
+Welcome to the webpage of the Boulder Language and Social Technologies research group (BLAST). We are based in the [Department of Computer
 Science at the University of Colorado Boulder](https://www.colorado.edu/cs/).
 
 At BLAST we work at the intersection of Natural Language Processing, Social Computing and
