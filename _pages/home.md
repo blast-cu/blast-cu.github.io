@@ -15,7 +15,7 @@ Computational Social Science. We aim to address societally relevant problems thr
 * Explainable and knowledge-infused ML methods (e.g. structured
 prediction, relational learning and neuro-symbolic methods) and their applicability to NLP. 
 * NLP for human-computer interaction and social computing
-* Discourse, pragmatics and argumentation analysis
+* Discourse, pragmatics and argumentation
 * Narrative modeling and understanding
 * Language as data; the study of social and cultural phenomena through the
 computational analysis of language
