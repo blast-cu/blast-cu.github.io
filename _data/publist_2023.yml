@@ -1,6 +1,9 @@
 - title: "Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections"
   authors: <mark>ML Pacheco</mark>, T Islam, L Ungar, M Yin, D Goldwasser
   venue: "Findings of the Association for Computational Linguistics: ACL 2023 (to appear)"
+  link:
+    url: https://arxiv.org/abs/2305.05094
+    display: \[Pre-print\]
   highlight: 0
   year: 2023
 
