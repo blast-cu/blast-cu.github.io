@@ -92,7 +92,9 @@ Jump to [PhD students](#phd), [Master students](#masters)
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
+  <p>{{ member.year }}</p>
   <p>{{ member.info }}</p>
   <ul style="overflow: hidden">
 
