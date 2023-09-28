@@ -35,3 +35,4 @@ Papers by BLAST members (Starting July 2022)
 
 {% endfor %}
 
+Click [here](https://mlpacheco.github.io/publications/) for prior publications.
