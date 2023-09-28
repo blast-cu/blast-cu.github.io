@@ -9,7 +9,7 @@
 #  education4:
 
 - name: Alex Leto
-  photo: alex
+  photo: alex.jpeg
   homepage: https://aleto1999.github.io/
   advised:
   info: Alex earned her MS in computer science from University of Denver and her BS from Colorado School of Mines. Her current research interests are natural language processing, computational social science and the digital humanities.
@@ -27,7 +27,7 @@
   info: 
 
 - name: Aaron Gluck
-  photo: aaron
+  photo: aaron.jpg
   homepage: https://blast-cu.github.io/team/#phd
   advised: Co-advised with <a href="https://kelina.github.io/">Katharina Kann</a>
   info: Aaron obtained his undergraduate degree in computer science at the University of Delaware. His current research interests are in NLP for education, question generation, and multilingual NLP. From a methods perspective, much of his future work will likely be neuro-symbolic in nature. He also has a recreational interest in more general AI theory aimed at improving upon current methods. Most of his free time is spent in the ice rink, hiking, playing cards, or assembling custom mechanical keyboards. 
