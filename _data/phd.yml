@@ -22,9 +22,9 @@
 
 - name: Juan Vasquez
   photo: juan.png
-  homepage: https://blast-cu.github.io/team/#phd
+  homepage: https://juanmvsa.github.io/
   advised: Co-advised with <a href="https://alexispalmer.github.io/">Alexis Palmer</a>
-  info: 
+  info: Juan obtained his MS degree in Computer Science and AI at the Universidad Nacional Autónoma de México. During his masters, he worked on hate-speech detection in Mexican Spanish, heteronormative language detection and automatic classification of news articles related to organized crime in Latin-America. He is currently working on neurosymbolic approaches that help computational social scientists find patterns in their data.
 
 - name: Aaron Gluck
   photo: aaron.jpg
