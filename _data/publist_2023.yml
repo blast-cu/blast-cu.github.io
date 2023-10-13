@@ -1,10 +1,6 @@
-- title: On the Potential and Limitations of Few-Shot In-Context Learning to
-Generate Metamorphic Specifications for Tax Preparation Software
+- title: "On the Potential and Limitations of Few-Shot In-Context Learning to Generate Metamorphic Specifications for Tax Preparation Software"
   authors: <mark>D Srinivas</mark>, <mark>R Das</mark>, S Tizpaz-Niari, A Trivedi, <mark>ML Pacheco</mark>
   venue: "Proceedings of the Natural Legal Language Processing Workshop 2023 (to appear)"
-  link:
-    url:
-    display:
   highlight: 0
   year: 2023
 
