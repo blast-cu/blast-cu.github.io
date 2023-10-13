@@ -1,17 +1,24 @@
+- title: On the Potential and Limitations of Few-Shot In-Context Learning to
+Generate Metamorphic Specifications for Tax Preparation Software
+  authors: <mark>D Srinivas</mark>, <mark>R Das</mark>, S Tizpaz-Niari, A Trivedi, <mark>ML Pacheco</mark>
+  venue: "Proceedings of the Natural Legal Language Processing Workshop 2023 (to appear)"
+  highlight: 0
+  year: 2023
+
 - title: "Interactive Concept Learning for Uncovering Latent Themes in Large Text Collections"
   authors: <mark>ML Pacheco</mark>, T Islam, L Ungar, M Yin, D Goldwasser
-  venue: "Findings of the Association for Computational Linguistics: ACL 2023 (to appear)"
+  venue: "Findings of the Association for Computational Linguistics: ACL 2023"
   link:
-    url: https://arxiv.org/abs/2305.05094
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2023.findings-acl.313/
+    display: \[Paper\]
   highlight: 0
   year: 2023
 
 - title: "Queer In AI: A Case Study in Community-Led Participatory AI"
   authors: Organizers of Queer in AI
-  venue: "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023 - to appear)"
+  venue: "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2023)"
   link:
-    url: https://arxiv.org/abs/2303.16972
-    display: \[Pre-print\]
+    url: https://dl.acm.org/doi/abs/10.1145/3593013.3594134
+    display: \[Paper\]
   highlight: 0
   year: 2023
