@@ -10,10 +10,18 @@ Welcome to the webpage of the Boulder Language and Social Technologies research 
 Science at the University of Colorado Boulder](https://www.colorado.edu/cs/).
 
 At BLAST we work at the intersection of Natural Language Processing, Machine Learning, Social Computing and
-Computational Social Science. We aim to address societally relevant problems through the computational analysis of language. Our broad mission is: (1) Studying and developing computational systems that can effectively support communication and cooperation between humans, as well as between humans and computer systems and (2) Facilitating the large-scale analysis of language and information to produce and advance knowledge. To this purpose, we maintain a research agenda that balances methods and applications. Some of our current areas of interest are:
+Computational Social Science. We are broadly interested in finding transparent and replicable insights to societally relevant problems through the computational analysis of language. In general, we are curious about:
+* What **language use** can tell us about **culture** and **society**.
+* **Analyzing content at scale** in traditional and emerging media, and grounding our findings in relevant **theory**
+* Applications of **AI and NLP** for **social good**: e.g., science, education, collaboration, accessibility, fairness
+* Incorporating a **cross-disciplinary lens** to our research whenever appropriate
+* Studying and developing **computational methods** and **tools** that facilitate all of the above
+
+To this purpose, we maintain a research agenda that balances methods and applications. Our ongoing project span the following areas:
 
 * Explainable and knowledge-infused ML methods (e.g. structured
-prediction, relational learning and neuro-symbolic methods) and their applicability to NLP. 
-* Discourse, pragmatics and argumentation
+prediction, relational learning and neuro-symbolic methods) and their applicability to NLP.
+* Discourse and pragmatics
 * Narrative modeling and understanding
+* Rhetoric and argumentation
 * NLP for human-computer interaction, education and computational social science. 
