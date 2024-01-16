@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Co-Advised PhD students](#co-advised-phd-students),[Master students](#master-students)
+Jump to [PhD students](#phd-students), [Co-advised PhD students](#co-advised-phd-students), [Master students](#master-students)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -76,7 +76,7 @@ Jump to [PhD students](#phd-students), [Co-Advised PhD students](#co-advised-phd
 </div>
 {% endif %}
 
-### Co-Advised PhD Students
+### Co-advised PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_coadvised %}
