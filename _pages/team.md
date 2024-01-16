@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students)
+Jump to [PhD students](#phd-students), [Co-Advised PhD students](#co-advised-phd-students),[Master students](#master-students)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -41,9 +41,6 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-
 
 ### PhD Students
 
@@ -79,6 +76,39 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 </div>
 {% endif %}
 
+### Co-Advised PhD Students
+
+{% assign number_printed = 0 %}
+{% for member in site.data.phd_coadvised %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
+  <p>{{ member.advised }}</p>
+  <p>{{ member.info }}</p>
+  <ul style="overflow: hidden">
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ### Master Students
 
