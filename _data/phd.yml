@@ -20,18 +20,6 @@
   advised:
   info: 
 
-- name: Juan Vasquez
-  photo: juan.png
-  homepage: https://juanmvsa.github.io/
-  advised: Co-advised with <a href="https://alexispalmer.github.io/">Alexis Palmer</a>
-  info: Juan obtained his MS degree in Computer Science and AI at the Universidad Nacional Autónoma de México. During his masters, he worked on hate-speech detection in Mexican Spanish, heteronormative language detection and automatic classification of news articles related to organized crime in Latin-America. He is currently working on neurosymbolic approaches that help computational social scientists find patterns in their data.
-
-- name: Aaron Gluck
-  photo: aaron.jpg
-  homepage: https://blast-cu.github.io/team/#phd
-  advised: Co-advised with <a href="https://kelina.github.io/">Katharina Kann</a>
-  info: Aaron obtained his undergraduate degree in computer science at the University of Delaware. His current research interests are in NLP for education, question generation, and multilingual NLP. From a methods perspective, much of his future work will likely be neuro-symbolic in nature. He also has a recreational interest in more general AI theory aimed at improving upon current methods. Most of his free time is spent in the ice rink, hiking, playing cards, or assembling custom mechanical keyboards. 
-
 - name: Rohan Das
   photo: Rohan.jpg
   homepage: https://blast-cu.github.io/team/#masters
