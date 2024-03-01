@@ -11,6 +11,15 @@ permalink: /publications/
 
 Papers by BLAST members (Starting July 2022)
 
+### Pre-prints
+
+{% for publi in site.data.publist_preprint %}
+
+  <b>{{ publi.title }}</b> (publi.year) <br />
+  {{ publi.authors }} <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
 ### 2023
 
 {% for publi in site.data.publist_2023 %}
