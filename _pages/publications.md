@@ -19,6 +19,7 @@ Papers by BLAST members (Starting July 2022)
   {{ publi.authors }} <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+{% endfor %}
 
 ### 2023
 
