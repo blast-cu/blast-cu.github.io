@@ -56,6 +56,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 <div class="col-sm-3 clearfix">
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
+  <br>
     <p>{{ member.advised }}</p>
 
   <ul style="overflow: hidden">
@@ -65,7 +66,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
@@ -97,7 +98,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
