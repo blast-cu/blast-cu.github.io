@@ -87,8 +87,8 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="150" height="150" style="float: left" />
+<div class="col-sm-2 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <ul style="overflow: hidden">
 
