@@ -54,10 +54,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
+  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
+   <p>{{ member.advised }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
-  <br>
-    <p>{{ member.advised }}</p>
 
   <ul style="overflow: hidden">
 
