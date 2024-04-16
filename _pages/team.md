@@ -53,7 +53,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-3 clearfix">
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <p>{{ member.advised }}</p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -86,7 +86,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students)
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-3 clearfix">
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <ul style="overflow: hidden">
