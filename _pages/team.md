@@ -71,7 +71,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 6 %}
-{% if even_odd == 5 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
@@ -79,6 +79,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 ### Master Students
 
 {% assign number_printed = 0 %}
+
 {% for member in site.data.master %}
 
 {% assign even_odd = number_printed | modulo: 6 %}
@@ -104,7 +105,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 6 %}
-{% if even_odd == 5 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
@@ -136,7 +137,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 6 %}
-{% if even_odd == 5 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
