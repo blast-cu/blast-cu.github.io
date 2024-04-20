@@ -56,6 +56,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
+   <p>{{ member.info }}</p>
    <p>{{ member.advised }}</p>
 
   <ul style="overflow: hidden">
@@ -91,6 +92,8 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
+  <p>{{ member.info }}</p>
+
   <ul style="overflow: hidden">
 
   </ul>
@@ -123,6 +126,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 <div class="col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
+  <p>{{ member.info }}</p>
   <ul style="overflow: hidden">
 
   </ul>
