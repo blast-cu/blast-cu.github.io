@@ -11,17 +11,24 @@
 - name: Aditya Chandra
   photo: aditya.jpg
   homepage: https://blast-cu.github.io/team/#master-students
-  advised:
-  info: AC's research interests lie in Computational Social Science and Natural Language Understanding. He is currently researching the narrative framing of immigration articles, leveraging knowledge graphs and graph neural networks. Outside academia, he finds immense joy in playing the guitar, where music becomes both his solace and creative outlet.
-
+  info: Computer Science
+  
 - name: Denzil Ekow Bilson
   photo: BILSON_DENZIL.jpg
   homepage: https://blast-cu.github.io/team/#master-students
-  advised:
-  info: Denzil earned his Bachelor’s degree in Computer Science at the University of Colorado at Boulder and is currently pursuing his Master's in Computer Science at the same institution. Previously he has focused on Software Engineering as a SWE intern as well as participating in multiple hackathons, building various backend applications. Currently, his research is focused on building a flexible framework for characterizing collaboration in conversations via high-level discourse cues.
+  info: Computer Science
 
 - name: Matt Pauk
   photo: Matt_Pauk.jpg
   homepage: https://blast-cu.github.io/team/#master-students
-  advised:
-  info: Matt obtained his undergraduate degree in Computer Science and Mathematics from Iowa State University. His current research interests lie broadly in the area of natural language processing, with a focus on natural language understanding and reasoning via neuro-symbolic methods.
+  info: Computer Science
+
+- name: Alvin Chen
+  photo: grad_student.png
+  homepage: https://blast-cu.github.io/team/#master-students
+  info: Computational Linguistics
+
+- name: Luna Peck
+  photo: grad_student.png
+  homepage: https://blast-cu.github.io/team/#master-students
+  info: Computational Linguistics
