@@ -9,11 +9,11 @@ permalink: /
 Welcome to the webpage of the Boulder Language and Social Technologies research group (BLAST). We are based in the [Department of Computer
 Science at the University of Colorado Boulder](https://www.colorado.edu/cs/).
 
-At BLAST we work at the intersection of Natural Language Processing, Machine Learning, Social Computing and
+At BLAST we work on Natural Language Processing, Machine Learning and
 Computational Social Science. We are broadly interested in finding transparent and replicable insights to societally relevant problems through the computational analysis of language. In general, we are curious about:
 * What **language use** can tell us about **culture** and **society**.
 * **Analyzing content at scale** in traditional and emerging media, and grounding our findings in relevant **theory**
-* Applications of **AI and NLP** for **social good**: e.g., science, education, collaboration, accessibility, fairness
+* Applications of **NLP and ML/AI** for **social good**: e.g., science, education, collaboration, accessibility, fairness
 * Incorporating a **cross-disciplinary lens** to our research whenever appropriate
 * Studying and developing **computational methods** and **tools** that facilitate all of the above
 
