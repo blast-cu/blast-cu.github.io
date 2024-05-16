@@ -1,3 +1,12 @@
+- title: "Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News"
+  authors: <mark>A Leto</mark>, E Pickens, CD Needell, D Rothschild, <mark>ML Pacheco</mark>
+  venue: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL, to appear)"
+  highlight: 0
+  link:
+    url: https://arxiv.org/abs/2402.14224
+    display: \[Pre-print\]
+  year: 2024
+
 - title: "A First Step towards Measuring Interdisciplinary Engagement in Scientific Publications: A Case Study on NLP + CSS Research"
   authors: <mark>A Leto</mark>, S Roy, A Hoyle, DE Acuna, <mark>ML Pacheco</mark>
   venue: "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS, to appear)" 
