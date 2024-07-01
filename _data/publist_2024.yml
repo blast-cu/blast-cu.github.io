@@ -12,7 +12,7 @@
 
 - title: "A First Step towards Measuring Interdisciplinary Engagement in Scientific Publications: A Case Study on NLP + CSS Research"
   authors: <mark>A Leto</mark>, S Roy, A Hoyle, DE Acuna, <mark>ML Pacheco</mark>
-  venue: "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS, to appear)" 
+  venue: "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS 2024)" 
   link:
     url: https://aclanthology.org/2024.nlpcss-1.11/
     display: \[Paper\]
@@ -21,7 +21,7 @@
 
 - title: "Pauk at SemEval-2024 Task 4: A Neuro-Symbolic Method for Consistent Classification of Propaganda Techniques in Memes"
   authors: <mark>M Pauk</mark> and <mark>ML Pacheco</mark>
-  venue: "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024, to appear)"
+  venue: "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024)"
   highlight: 0
   link: 
     url: https://aclanthology.org/2024.semeval-1.204/
