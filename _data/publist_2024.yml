@@ -5,11 +5,17 @@
   link:
     url: https://arxiv.org/abs/2402.14224
     display: \[Pre-print\]
+  link:
+    url: https://github.com/blast-cu/econ-indicators
+    display: \[Code \& Data\]
   year: 2024
 
 - title: "A First Step towards Measuring Interdisciplinary Engagement in Scientific Publications: A Case Study on NLP + CSS Research"
   authors: <mark>A Leto</mark>, S Roy, A Hoyle, DE Acuna, <mark>ML Pacheco</mark>
   venue: "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science (NLP+CSS, to appear)" 
+  link:
+    url: https://aclanthology.org/2024.nlpcss-1.11/
+    display: \[Paper\]
   highlight: 0
   year: 2024
 
@@ -17,6 +23,12 @@
   authors: <mark>M Pauk</mark> and <mark>ML Pacheco</mark>
   venue: "Proceedings of the 18th International Workshop on Semantic Evaluation (SemEval-2024, to appear)"
   highlight: 0
+  link: 
+    url: https://aclanthology.org/2024.semeval-1.204/
+    display: \[Paper\]
+  code:
+    url: https://github.com/mappauk/Neuro-Symbolic-Final-Project
+    display: \[Code\]
   year: 2024
 
 - title: "Accelerating UMR Adoption: Neuro-Symbolic Conversion from AMR-to-UMR with Low Supervision"
