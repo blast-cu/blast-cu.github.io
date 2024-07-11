@@ -20,12 +20,6 @@
   advised:
   info: Computer Science
 
-- name: Rohan Das
-  photo: Rohan.jpg
-  homepage: https://www.rohandas.net/
-  advised:
-  info: Computer Science
-
 - name: Juan Vasquez
   photo: juan.png
   homepage: https://publish.obsidian.md/juan/about_me/%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%82%EF%B8%8F+hi
@@ -38,6 +32,22 @@
   advised: <b>Co-advised with <a href="https://kelina.github.io/">Katharina Kann</a></b>
   info: Computer Science
 
+- name: Rohan Das
+  photo: Rohan.jpg
+  homepage: https://www.rohandas.net/
+  advised:
+  info: Computer Science
 
+- name: Chloe Eggleston
+  photo: grad_student.png
+  homepage: https://chloes.computer/
+  advised:
+  info: Computer Science
+
+- name: Mary Martin
+  photo: grad_student.png
+  homepage: https://blast-cu.github.io/team/#phd-students
+  advised: <b>Co-advised with <a href="https://www.colorado.edu/faculty/palmer-martha/">Martha Palmer</a></b>
+  info: Computer Science
 
 
