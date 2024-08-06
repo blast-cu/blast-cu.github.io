@@ -47,7 +47,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
+{% assign even_odd = number_printed | modulo: 5 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -66,12 +66,12 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 5 %}
+{% if even_odd == 4 %}
 </div>
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
+{% assign even_odd = number_printed | modulo: 5 %}
 {% if even_odd != 0 %}
 </div>
 {% endif %}
