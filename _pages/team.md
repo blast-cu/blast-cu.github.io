@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students), [Undergraduate students](#undergraduate-students)
+Jump to [PhD students](#phd-students), [Master students](#master-students), [Undergraduate students](#undergraduate-students), [Alumni](#alumni)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -143,4 +143,10 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% if even_odd != 0 %}
 </div>
 {% endif %}
+
+### Alumni
+
+#### MS Independent Studies
+
+- Aditya Chandra (Fall 2023, Spring 2024). IS: _"A Narrative Graph Approach for Analyzing Framing in News Articles"._
 
