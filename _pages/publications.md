@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Publications
 
-Papers by BLAST members (Starting July 2022)
+Papers by BLAST members
 
 ### 2024
 
@@ -47,4 +47,38 @@ Papers by BLAST members (Starting July 2022)
 
 {% endfor %}
 
-Click [here](https://mlpacheco.github.io/publications/) for prior publications.
+### 2021
+
+{% for publi in site.data.publist_2021 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
+### 2020
+
+{% for publi in site.data.publist_2020 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
+### 2016-2019
+
+{% for publi in site.data.publist %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
