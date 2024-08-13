@@ -8,7 +8,9 @@ permalink: /team/mlpacheco/
 
 <img src="images/photoML.jpg" alt="" style="width: 150px; float: right; border: 10px; margin: 20px" />
 
-### About Me
+### Maria Leonor Pacheco
+
+#### About Me
 
 I am an Assistant Professor of Computer Science at the [University of Colorado Boulder](https://www.colorado.edu/cs/), where I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) research group. I am also a Faculty Fellow at CU's [Institute of Cognitive Science](https://www.colorado.edu/ics/).
 
@@ -18,11 +20,11 @@ NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/).
 <span style="color:red">I am **not** recruiting PhD students for Fall 2025</span>.
 
 
-### My Work
+#### My Work
 
 I primarily work on Natural Language Processing, Machine Learning and Computational Social Science. I am mostly interested in the integration of structured knowledge and statistical models, and in the relationship between language and social systems. I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For more information, see my [full list of publications](https://blast-cu.github.io/publications/).
 
-### Interested in working with me?
+#### Interested in working with me?
 
 - **If you are a student at CU** come talk to me about your research interests and ideas!
 - **If you are prospective PhD student** please [apply to CU](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply) and mention my name in your application. I will carefully consider all applications of prospective students interested in working with me. However, I might not be able to reply to all prospective students email. For more thoughts on this, I recommend Prof. Yonatan Bisk's notes on [cold emailing professors](https://yonatanbisk.com/emailing_professors.html). 
