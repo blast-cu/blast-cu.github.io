@@ -1,6 +1,6 @@
 ---
 title: "BLAST - PI"
-layout: gridlay
+layout: profilelay
 excerpt: "BLAST: ML Pacheco"
 sitemap: false
 permalink: /team/mlpacheco/
