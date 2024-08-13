@@ -22,3 +22,38 @@
   highlight: 0
   year: 2022
 
+- title: "A Holistic Framework for Analyzing the COVID-19 Vaccine Debate"
+  authors: <mark>ML Pacheco</mark>, T Islam, M Mahajan, A Shor, M Yin, L Ungar, D Goldwasser
+  venue: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2022)"
+  link:
+    url: https://aclanthology.org/2022.naacl-main.427/
+    display: \[Paper\]
+  code:
+    url: https://gitlab.com/mlpacheco/covid-moral-foundations
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Tackling Fake News Detection by Continually Improving Social Context Representations using Graph Neural Networks"
+  authors: N Mehta, <mark>ML Pacheco</mark>, D Goldwasser
+  venue: "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)"
+  link:
+    url: https://aclanthology.org/2022.acl-long.97/
+    display: \[Paper\]
+  code:
+    url: https://github.com/hockeybro12/fakenews_inference_operators
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Automated Attack Synthesis by Extracting Finite State Machines from Protocol Specification Documents"
+  authors: <mark>ML Pacheco</mark>, M von Hippel, B Weintraub, D Goldwasser, C Nita-Rotaru
+  venue: "2022 IEEE Symposium on Security and Privacy (SP)"
+  link:
+    url: https://arxiv.org/abs/2202.09470
+    display: \[Paper\]
+  code:
+    url: https://github.com/RFCNLP
+    display: \[Code\]
+  highlight: 0
+  year: 2022
