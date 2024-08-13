@@ -1,11 +1,12 @@
 
 ---
-title: "M.L. Pacheco - Home"
-layout: homelay
-excerpt: "M.L. Pacheco Academic Webpage"
+title: "BLAST - ML Pacheco"
+layout: gridlay
+excerpt: "BLAST -- ML Pacheco."
 sitemap: false
-permalink: /
+permalink: /team/mlpacheco/
 ---
+
 
 ### About Me
 
