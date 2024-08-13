@@ -1,0 +1,48 @@
+
+- title: "Leveraging Textual Specifications for Grammar-Based Fuzzing of Network Protocols"
+  authors: S Jero, <mark>ML Pacheco</mark>, D Goldwasser, C Nita-Rotaru
+  venue: "Proceedings of the Thirty-First AAAI Conference on Innovative Applications of Artificial Intelligence (IAAI 2019)"
+  link:
+    url: https://ojs.aaai.org//index.php/AAAI/article/view/5002
+    display: \[Paper\]
+  code:
+    url: https://gitlab.com/purdueNlp/snake_nlp
+    display: \[Code\]
+  highlight: 0
+  year: 2019
+
+- title: "PurdueNLP at SemEval-2017 Task 1: Predicting Semantic Textual Similarity with Paraphrase and Event Embeddings"
+  authors: IT Lee, M Goindani, C Li, D Jin, K Johnson, X Zhang, <mark>ML Pacheco</mark>, D Goldwasser
+  venue: "Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval-2017)"
+  link:
+    url: https://aclanthology.org/S17-2029/
+    display: \[Paper\]
+  code:
+    url: https://mlpacheco.github.io/publications/
+    display: \[Code\]
+  highlight: 0
+  year: 2017
+
+- title: "Introducing DRAIL – a Step Towards Declarative Deep Relational Learning"
+  authors: X Zhang, <mark>ML Pacheco</mark>, C Li, D Goldwasser
+  venue: "Proceedings of the First Workshop on Structured Prediction for NLP (SPNLP @ EMNLP 2016)"
+  link:
+    url: https://aclanthology.org/W16-5906/
+    display: \[Paper\]
+  code:
+    url: https://gitlab.com/purdueNlp/DRaiL
+    display: \[Code\]
+  highlight: 0
+  year: 2016
+
+- title: "Adapting Event Embedding for Implicit Discourse Relation Recognition"
+  authors: <mark>ML Pacheco</mark>, IT Lee, X Zhang, AK Zehady, P Daga, D Jin, A Parolia, D Goldwasser
+  venue: "Proceedings of the CoNLL-16 shared task"
+  link:
+    url: https://aclanthology.org/K16-2019/
+    display: \[Paper\]
+  code:
+    url: https://mlpacheco.github.io/publications/
+    display: \[Code\]
+  highlight: 0
+  year: 2016
