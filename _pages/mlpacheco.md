@@ -6,6 +6,7 @@ sitemap: false
 permalink: /team/mlpacheco/
 ---
 
+<img src="images/photoML.jpg" alt="" style="width: 150px; float: right; border: 10px; margin: 20px" />
 
 ### About Me
 
