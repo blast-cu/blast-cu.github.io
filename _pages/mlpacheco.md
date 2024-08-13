@@ -3,7 +3,7 @@ title: "BLAST - PI"
 layout: profilelay
 excerpt: "BLAST: ML Pacheco"
 sitemap: false
-permalink: /team/mlpacheco/
+permalink: /mlpacheco/
 ---
 
 
