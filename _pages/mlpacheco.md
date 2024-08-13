@@ -1,8 +1,7 @@
-
 ---
-title: "BLAST - ML Pacheco"
+title: "BLAST - PI"
 layout: gridlay
-excerpt: "BLAST -- ML Pacheco."
+excerpt: "BLAST: ML Pacheco"
 sitemap: false
 permalink: /team/mlpacheco/
 ---
