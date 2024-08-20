@@ -11,6 +11,19 @@ permalink: /publications/
 
 Papers by BLAST members
 
+### Pre-prints
+
+{% for publi in site.data.publist_preprint %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br /> 
+  ({{ publi.year }})
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
 ### 2024
 
 {% for publi in site.data.publist_2024 %}
