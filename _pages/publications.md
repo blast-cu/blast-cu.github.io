@@ -17,8 +17,7 @@ Papers by BLAST members
 
   <b>{{ publi.title }}</b> <br />
   {{ publi.authors }} <br />
-  <em>{{ publi.venue }}</em> <br /> 
-  ({{ publi.year }})
+  ({{ publi.year }})<br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
 

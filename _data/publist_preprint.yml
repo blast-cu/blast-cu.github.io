@@ -1,8 +1,10 @@
 - title: "Studying the Effects of Collaboration in Interactive Theme Discovery Systems"
   authors: <mark>A Chen</mark>, <mark>D Srinivas</mark>, <mark>A Barry</mark>, M Seniw, <mark>ML Pacheco</mark>
-  venue: ""
   highlight: 0
   link:
     url: https://arxiv.org/abs/2408.09030
     display: \[Pre-print\]
+  code:
+    url: https://github.com/blast-cu/interactive-systems
+    display: \[Code & Data\]
   year: 2024
