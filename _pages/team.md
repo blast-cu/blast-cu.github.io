@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students), [Undergraduate students](#undergraduate-students), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Master students](#master-students), [Undergraduate students](#undergraduate-students), [Student Collaborators](#informal-student-collaborators), [Alumni](#alumni)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -143,6 +143,12 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% if even_odd != 0 %}
 </div>
 {% endif %}
+
+### Informal Student Collaborators
+- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student
+- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student
+- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/), CS Master Student
+- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student
 
 ### Alumni
 
