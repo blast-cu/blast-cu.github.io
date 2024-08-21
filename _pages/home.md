@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the webpage of the Boulder Language and Social Technologies research group (BLAST). We are based in the [Department of Computer
+Welcome to the webpage of the Boulder Language and Social Technologies research group (BLAST), led by [Prof. Maria L. Pacheco](https://blast-cu.github.io/mlpacheco/). We are based in the [Department of Computer
 Science at the University of Colorado Boulder](https://www.colorado.edu/cs/).
 
 At BLAST we work on Natural Language Processing, Machine Learning and
