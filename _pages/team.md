@@ -148,5 +148,5 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 
 #### MS Independent Studies
 
-- Aditya Chandra (Fall 2023, Spring 2024). IS: _"A Narrative Graph Approach for Analyzing Framing in News Articles"._
+- [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024). IS: _"A Narrative Graph Approach for Analyzing Framing in News Articles"._
 
