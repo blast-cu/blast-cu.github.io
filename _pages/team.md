@@ -147,7 +147,6 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 ### Informal Student Collaborators
 - [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student
 - [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student
-- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/), CS Master Student
 - [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student
 
 ### Alumni
