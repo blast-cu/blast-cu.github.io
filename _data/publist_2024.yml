@@ -2,6 +2,9 @@
   authors: <mark>R Das</mark>, <mark>A Chandra</mark>, IT Lee, <mark>ML Pacheco</mark>
   venue: "Proceedings of the 6th Workshop on Narrative Understanding (to appear)"
   highlight: 0
+  link:
+    url: https://arxiv.org/pdf/2410.03151
+    display: \[Pre-print\]
   year: 2024
 
 - title: "Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News"
