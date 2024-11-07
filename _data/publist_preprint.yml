@@ -16,3 +16,11 @@
     url: https://github.com/blast-cu/interactive-systems
     display: \[Code & Data\]
   year: 2024
+
+- title: "Show, Don't Tell: Learning Reward Machines from Demonstrations for Reinforcement Learning-Based Cardiac Pacemaker Synthesis"
+  authors: J Komp, <mark>D Srinivas</mark>, A Trivedi, <mark>ML Pacheco</mark>
+  highlight: 0
+  link:
+    url: https://arxiv.org/abs/2411.01750
+    display: \[Pre-print\]
+  year: 2024
