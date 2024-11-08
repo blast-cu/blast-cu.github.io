@@ -1,10 +1,10 @@
 - title: "Media Framing through the Lens of Event-Centric Narratives"
   authors: <mark>R Das</mark>, <mark>A Chandra</mark>, IT Lee, <mark>ML Pacheco</mark>
-  venue: "Proceedings of the 6th Workshop on Narrative Understanding (to appear)"
+  venue: "Proceedings of the 6th Workshop on Narrative Understanding"
   highlight: 0
   link:
-    url: https://arxiv.org/pdf/2410.03151
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2024.wnu-1.15/
+    display: \[Paper\]
   year: 2024
 
 - title: "Framing in the Presence of Supporting Data: A Case Study in U.S. Economic News"
