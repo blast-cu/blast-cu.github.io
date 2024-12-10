@@ -145,7 +145,8 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% endif %}
 
 ### Informal Student Collaborators
-- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student
+- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/), CS Master Student
+- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/), Data Science Master Student
 - [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student
 - [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student
 
@@ -154,4 +155,10 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 #### MS Independent Studies
 
 - [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024). IS: _"A Narrative Graph Approach for Analyzing Framing in News Articles"._
+- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/) (2024). IS: _"Examining the Long Tail for LLM-based Fine-Grained Entity Typing"_
+- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/) (2024). IS: _"Testing the Limits of LLMs for Long-context Structured Representations"_
+
+#### Informal Student Collaborators
+- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student
+
 
