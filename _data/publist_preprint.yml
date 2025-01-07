@@ -1,3 +1,11 @@
+- title: "CLIX: Cross-Lingual Explanations of Idiomatic Expressions"
+  authors: <mark>A Gluck</mark>, K von der Wense, <mark>ML Pacheco</mark>
+  highlight: 0
+  link:
+    url: https://arxiv.org/pdf/2501.03191
+    display: \[Pre-print\]
+  year: 2024
+
 - title: "All Entities are Not Created Equal: Examining the Long Tail for Fine-Grained Entity Typing"
   authors: <mark>A Deshmukh</mark>, <mark>A Umadi</mark>, <mark>D Srinivas</mark>, <mark>ML Pacheco</mark>
   highlight: 0
