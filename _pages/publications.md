@@ -23,6 +23,18 @@ Papers by BLAST members
 
 {% endfor %}
 
+### 2025
+
+{% for publi in site.data.publist_2025 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
 ### 2024
 
 {% for publi in site.data.publist_2024 %}
