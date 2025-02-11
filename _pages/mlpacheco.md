@@ -14,7 +14,7 @@ I am an Assistant Professor of Computer Science at the [University of Colorado B
 Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
 NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at [Purdue University](https://www.cs.purdue.edu/), and my BSc. in Computer Science and Engineering at the [Universidad Simon Bolivar](http://www.usb.ve/) in Caracas, Venezuela, where I was born and raised. 
 
-<span style="color:red">I am **not** recruiting PhD students for Fall 2025 or Fall 2026</span>.
+<span style="color:red">I am **not** recruiting PhD students for Fall 2026</span>.
 
 
 #### My Work
