@@ -1,6 +1,8 @@
 - name: Maria Leonor Pacheco
   photo: photoML.jpg
-  info: Assistant Professor
+  info: Assistant Professor, Department of Computer Science
+  info2: Faculty Fellow, Institute of Cognitive Science
+  info3: University of Colorado Boulder
   homepage: https://blast-cu.github.io/mlpacheco/
   number_educ: 2
   education1: PhD at Purdue University with <a href="https://www.cs.purdue.edu/homes/dgoldwas/">Dan Goldwasser</a>
