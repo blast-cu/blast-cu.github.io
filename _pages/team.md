@@ -76,7 +76,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 {% endif %}
 
 
-### Master Students
+### Master Students 
 
 {% assign number_printed = 0 %}
 
@@ -144,7 +144,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 </div>
 {% endif %}
 
-### Active Informal Student Collaborators
+### Informal Student Collaborators
 - [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/), CS Master Student
 - [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/), Data Science Master Student
 
