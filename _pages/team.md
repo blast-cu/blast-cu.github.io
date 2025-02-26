@@ -24,8 +24,8 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
-  <i>{{ member.dept }}</i>
-  <i>{{ member.fellow }}</i>
+  <i>{{ member.info2 }}</i>
+  <i>{{ member.info3 }}</i>
   <ul style="overflow: hidden">
 
   </ul>
