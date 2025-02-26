@@ -25,7 +25,6 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
   <i>{{ member.info2 }}</i>
-  <i>{{ member.info3 }}</i>
   <ul style="overflow: hidden">
 
   </ul>
