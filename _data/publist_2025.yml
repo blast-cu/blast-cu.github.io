@@ -1,11 +1,17 @@
 - title: "Identifying Power Relations in Conversations using Multi-Agent Social Reasoning"
   authors: Z Wu, D Goldwasser, <mark>ML Pacheco</mark>, L Morgernsten
-  venue: "Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025, to appear)"
+  venue: "Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)"
   highlight: 0
+  link:
+    url: https://aclanthology.org/2025.naacl-short.72/
+    display: \[Paper\]
   year: 2025
 
 - title: "Dehumanization of LGBTQ+ Groups in Sexual Interactions with ChatGPT"
   authors: <mark>A Leto</mark>, <mark>J Vasquez</mark>, A Palmer, <mark>ML Pacheco</mark>
-  venue: "Proceedings of the Queer in AI Workshop (to appear)"
+  venue: "Proceedings of the Queer in AI Workshop"
   highlight: 0
+  link:
+    url: https://aclanthology.org/2025.queerinai-main.3/
+    display: \[Paper\]
   year: 2025
