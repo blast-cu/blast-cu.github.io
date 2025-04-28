@@ -1,3 +1,12 @@
+- title: "Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs"
+  authors: <mark>A Raut</mark>, X Zhu, <mark>ML Pacheco</mark>
+  highlight: 0
+  link:
+    url: https://arxiv.org/abs/2504.04745
+    display: \[Pre-print\]
+  year: 2025
+
+
 - title: "CLIX: Cross-Lingual Explanations of Idiomatic Expressions"
   authors: <mark>A Gluck</mark>, K von der Wense, <mark>ML Pacheco</mark>
   highlight: 0
