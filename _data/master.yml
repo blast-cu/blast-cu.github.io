@@ -13,11 +13,6 @@
   homepage: https://www.linkedin.com/in/denzilbilson/
   info: Computer Science
 
-- name: Matt Pauk
-  photo: Matt_Pauk.jpg
-  homepage: https://blast-cu.github.io/team/#master-students
-  info: Computer Science
-
 - name: Alvin Chen
   photo: alvin.png
   homepage: https://alvin-pc-chen.github.io/
@@ -31,21 +26,6 @@
 - name: Advait Deshmukh
   photo: advait.jpg
   homepage: https://advaitdeshmukh.github.io/portfolio/
-  info: Computer Science
-
-- name: Ashwin Umadi
-  photo: Ashwin.jpg
-  homepage: https://ashwinumadi.github.io/
-  info: Computer Science
-
-- name: Anirudh Maiya
-  photo: anirudh_maiya.png
-  homepage: https://anirudhmaiya.github.io/
-  info: Computer Science
-
-- name: Daksha Singhal
-  photo: DakshaSHeadshot.png
-  homepage: https://github.com/sonofposeidon1999
   info: Computer Science
 
 - name: Bagyasree Sudharsan
