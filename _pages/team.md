@@ -153,8 +153,10 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 
 #### MS Independent Studies
 
-- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/) (2024)
-- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/) (2024) 
+- [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025)
+- [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025)
+- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/) (2024-2025)
+- [Daksha Singhal](https://github.com/sonofposeidon1999) (2024-2025)
 - [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024)
 
 
