@@ -148,10 +148,11 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 ### Alumni
 
 #### BS Senior Thesis
-- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025), *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
+- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025). *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
 
 #### MS Independent Studies
 
+- [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025)
 - [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025)
 - [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/) (2024-2025)
