@@ -145,11 +145,10 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 </div>
 {% endif %}
 
-### Informal Student Collaborators
-- [Advait Deshmukh](https://advaitdeshmukh.github.io/portfolio/), CS Master Student
-- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/), Data Science Master Student
-
 ### Alumni
+
+#### BS Senior Thesis
+- [Alexandra Barry] (2024-2025), *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
 
 #### MS Independent Studies
 
