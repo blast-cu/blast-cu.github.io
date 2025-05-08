@@ -148,7 +148,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 ### Alumni
 
 #### BS Senior Thesis
-- [Alexandra Barry] (2024-2025), *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
+- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025), *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
 
 #### MS Independent Studies
 
