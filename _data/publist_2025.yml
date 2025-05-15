@@ -1,3 +1,21 @@
+- title: "CLIX: Cross-Lingual Explanations of Idiomatic Expressions"
+  authors: <mark>A Gluck</mark>, K von der Wense, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
+  link:
+    url: https://arxiv.org/pdf/2501.03191
+    display: \[Pre-print\]
+  year: 2025
+
+- title: "Explaining Puzzle Solutions in Natural Language: An Exploratory Study on 6x6 Sudoku"
+  authors: <mark>A Maiya</mark>, R Alghamadi <mark>ML Pacheco</mark>, A Trivedi, F Somenzi
+  highlight: 0
+  venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
+  link:
+    url: 
+    display: 
+  year: 2025
+
 - title: "Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs"
   authors: <mark>A Raut</mark>, X Zhu, <mark>ML Pacheco</mark>
   highlight: 0
