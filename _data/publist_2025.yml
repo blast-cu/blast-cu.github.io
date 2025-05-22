@@ -32,6 +32,9 @@
   link:
     url: https://aclanthology.org/2025.naacl-short.72/
     display: \[Paper\]
+  code:
+    url: https://github.com/kandicew/social-reasoning
+    display: \[Code & Data\]
   year: 2025
 
 - title: "Dehumanization of LGBTQ+ Groups in Sexual Interactions with ChatGPT"
