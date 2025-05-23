@@ -12,8 +12,8 @@
   highlight: 0
   venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
   link:
-    url: 
-    display: 
+    url: https://arxiv.org/abs/2505.15993
+    display: \[Pre-print\]
   year: 2025
 
 - title: "Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs"
