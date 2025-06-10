@@ -5,6 +5,9 @@
   link:
     url: https://arxiv.org/pdf/2501.03191
     display: \[Pre-print\]
+  code:
+    url: https://github.com/blast-cu/CLIX
+    display: \[Code & Data\]
   year: 2025
 
 - title: "Explaining Puzzle Solutions in Natural Language: An Exploratory Study on 6x6 Sudoku"
@@ -14,6 +17,9 @@
   link:
     url: https://arxiv.org/abs/2505.15993
     display: \[Pre-print\]
+  code:
+    url: https://github.com/blast-cu/6x6-sudoku
+    display: \[Code & Data\]
   year: 2025
 
 - title: "Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs"
