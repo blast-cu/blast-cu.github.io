@@ -119,7 +119,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 - [Tavin Turner](https://www.ta.vin/) (2024-2025). *Statutory Relational Stance Modeling*. MS Student at the University of Colorado Boulder.
 
 #### MS Computational Linguistics Capstone Projects
-- - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Effects of Collaboration on the Performance of Interactive Theme Discovery Systems*.
+- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Effects of Collaboration on the Performance of Interactive Theme Discovery Systems*.
 - [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *ConEm: Learning Embedded Concept Representations from LLMs*. PhD Student at the University of British Columbia. 
 
 #### MS Independent Studies 
