@@ -116,12 +116,13 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 
 #### BS Senior Thesis
 - [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025). *Evaluating LLM Robustness to Dialectal Variation in Spanish*. 
-- [Tavin Turner](https://www.ta.vin/) (2024-2025). *Statutory Relational Stance Modeling*. MS Student at the University of Colorado Boulder. 
+- [Tavin Turner](https://www.ta.vin/) (2024-2025). *Statutory Relational Stance Modeling*. MS Student at the University of Colorado Boulder.
+
+#### MS Computational Linguistics Capstone Projects
+- - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Effects of Collaboration on the Performance of Interactive Theme Discovery Systems*.
+- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *ConEm: Learning Embedded Concept Representations from LLMs*. PhD Student at the University of British Columbia. 
 
 #### MS Independent Studies 
-
-- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). PhD Student at the University of British Columbia. 
-- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). 
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025)
 - [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025). Software Engineer at Commvault.
@@ -130,7 +131,6 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 - [Matt Pauk](https://blast-cu.github.io/team/#phd-students) (2023-2025). PhD Student at the University of Colorado Boulder.
 - [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024)
 - [Rohan Das](https://www.rohandas.net/) (2023). PhD Student at the University of Colorado Boulder.
-
 
 #### Informal Student Collaborators
 - [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student. 
