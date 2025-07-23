@@ -123,6 +123,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 - [Luna Peck](https://github.com/lunaria-bee) (2024-2025). "ConEm: Learning Embedded Concept Representations from LLMs". *PhD Student at the University of British Columbia*. 
 
 #### MS Independent Studies 
+- [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025)
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025)
 - [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025). *Software Engineer at Commvault*.
