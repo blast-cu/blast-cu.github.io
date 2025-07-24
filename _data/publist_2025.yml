@@ -3,8 +3,8 @@
   highlight: 0
   venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
   link:
-    url: https://arxiv.org/pdf/2501.03191
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2025.findings-acl.233/
+    display: \[Paper\]
   code:
     url: https://github.com/blast-cu/CLIX
     display: \[Code & Data\]
@@ -15,8 +15,8 @@
   highlight: 0
   venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
   link:
-    url: https://arxiv.org/abs/2505.15993
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2025.findings-acl.233/
+    display: \[Paper\]
   code:
     url: https://github.com/blast-cu/6x6-sudoku
     display: \[Code & Data\]
