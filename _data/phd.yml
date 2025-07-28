@@ -20,16 +20,16 @@
   advised:
   info: Computer Science
 
+- name: Aaron Gluck
+  photo: aaron.jpg
+  homepage: https://blast-cu.github.io/team/#phd-students
+  advised: 
+  info: Computer Science
+
 - name: Juan Vasquez
   photo: juan.png
   homepage: https://juan-vasquez.com/
   advised: <b>Co-advised with <a href="https://alexispalmer.github.io/">Alexis Palmer</a></b>
-  info: Computer Science
-
-- name: Aaron Gluck
-  photo: aaron.jpg
-  homepage: https://blast-cu.github.io/team/#phd-students
-  advised: <b>Co-advised with <a href="https://kelina.github.io/">Katharina Kann</a></b>
   info: Computer Science
 
 - name: Rohan Das
