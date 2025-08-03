@@ -27,8 +27,8 @@
   highlight: 0
   venue: "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025, to appear)"
   link:
-    url: https://arxiv.org/abs/2504.04745
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2025.xllm-1.16/
+    display: \[Paper\]
   year: 2025
 
 - title: "Identifying Power Relations in Conversations using Multi-Agent Social Reasoning"
