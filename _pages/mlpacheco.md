@@ -9,7 +9,7 @@ permalink: /mlpacheco/
 
 #### About Me
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder, where I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) research group. I am also a Faculty Fellow at CU's [Institute of Cognitive Science](https://www.colorado.edu/ics/), and affiliated faculty in the [Department of Information Science](https://www.colorado.edu/cmci/infoscience).
+I am an Assistant Professor in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder. I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) research group, and collaborate with amazing colleagues and students in the broader [Boulder NLP community][https://www.colorado.edu/research/bouldernlp/]. I am also a Faculty Fellow at CU's [Institute of Cognitive Science](https://www.colorado.edu/ics/), and affiliated faculty in the [Department of Information Science](https://www.colorado.edu/cmci/infoscience).
 
 Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
 NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at [Purdue University](https://www.cs.purdue.edu/), and my BSc. in Computer Science and Engineering at the [Universidad Simon Bolivar](http://www.usb.ve/) in Caracas, Venezuela, where I was born and raised. 
