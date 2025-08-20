@@ -15,7 +15,7 @@ At BLAST we work on Natural Language Processing, Machine Learning and
 Computational Social Science. We are broadly interested in finding transparent and replicable insights to societally relevant problems through the computational analysis of language. In general, we are curious about:
 * What **language use** can tell us about **culture** and **society**.
 * **Analyzing content at scale** in traditional and emerging media, and grounding our findings in relevant **theory**
-* Applications of **NLP and ML/AI** for **social good**: e.g., science, education, collaboration, safety, accessibility, fairness
+* Applications of **NLP** for **human factors** and **socio-technical systems**: e.g., science communication and discovery, education, collaboration, safety, accessibility, fairness
 * Incorporating a **cross-disciplinary lens** to our research whenever appropriate
 * Studying and developing **computational methods** and **tools** that facilitate all of the above
 
