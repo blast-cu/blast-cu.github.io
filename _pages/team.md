@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students), [Undergraduate students](#undergraduate-students), [Student Collaborators](#informal-student-collaborators), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Master students](#master-students), [Visitors](#visitors), [Alumni](#alumni)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -146,7 +146,8 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Und
 </div>
 {% endif %}
 
-### Alumni (*First Position*)
+### Alumni 
+##### *(First Position)*
 
 #### BS Senior Thesis
 - [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025). "Evaluating LLM Robustness to Dialectal Variation in Spanish". 
