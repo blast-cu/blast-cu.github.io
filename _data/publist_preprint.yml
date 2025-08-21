@@ -1,3 +1,11 @@
+- title: "Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions"
+  authors: <mark>ML Pacheco</mark>, F Somenzi, <mark>D Srinivas</mark>, A Trivedi (<i>Authors ordered alphabetically by last name.</i>)
+  highlight: 0
+  link: 
+    url: https://arxiv.org/abs/2508.14294
+    display: \[Pre-print\]
+  year: 2025
+
 - title: "All Entities are Not Created Equal: Examining the Long Tail for Fine-Grained Entity Typing"
   authors: <mark>A Deshmukh</mark>, <mark>A Umadi</mark>, <mark>D Srinivas</mark>, <mark>ML Pacheco</mark>
   highlight: 0
