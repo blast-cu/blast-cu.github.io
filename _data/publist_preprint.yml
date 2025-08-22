@@ -1,3 +1,11 @@
+- title: "Mapping the Course for Prompt-based Structured Prediction"
+  authors: <mark>M Pauk</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  link:
+    url: https://arxiv.org/abs/2508.15090
+    display: \[Pre-print\]
+  year: 2025
+
 - title: "Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions"
   authors: <mark>ML Pacheco</mark>, F Somenzi, <mark>D Srinivas</mark>, A Trivedi <i>(Authors ordered alphabetically by last name.)</i>
   highlight: 0
