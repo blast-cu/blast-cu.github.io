@@ -20,7 +20,7 @@
   link:
     url: https://arxiv.org/abs/2410.17355
     display: \[Pre-print\]
-  year: 2024
+  year: 2025
 
 - title: "Studying the Effects of Collaboration in Interactive Theme Discovery Systems"
   authors: <mark>A Chen</mark>, <mark>D Srinivas</mark>, <mark>A Barry</mark>, <mark>M Seniw</mark>, <mark>ML Pacheco</mark>
@@ -31,7 +31,7 @@
   code:
     url: https://github.com/blast-cu/interactive-systems
     display: \[Code & Data\]
-  year: 2024
+  year: 2025
 
 - title: "Show, Don't Tell: Learning Reward Machines from Demonstrations for Reinforcement Learning-Based Cardiac Pacemaker Synthesis"
   authors: J Komp, <mark>D Srinivas</mark>, <mark>ML Pacheco</mark>, A Trivedi
