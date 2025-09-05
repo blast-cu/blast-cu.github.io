@@ -21,7 +21,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
   <i>{{ member.info2 }}</i>
