@@ -1,7 +1,22 @@
+- title: "Cross-Domain Persuasion Detection with Argumentative Features"
+  authors: <mark>B Sudharsan</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (StarSEM 2025)"
+  year: 2025
+
+- title: "All Entities are Not Created Equal: Examining the Long Tail for Fine-Grained Entity Typing"
+  authors: <mark>A Deshmukh</mark>, <mark>A Umadi</mark>, <mark>D Srinivas</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (StarSEM 2025)"
+  link:
+    url: https://arxiv.org/abs/2410.17355
+    display: \[Pre-print\]
+  year: 2025
+
 - title: "CLIX: Cross-Lingual Explanations of Idiomatic Expressions"
   authors: <mark>A Gluck</mark>, K von der Wense, <mark>ML Pacheco</mark>
   highlight: 0
-  venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
+  venue: "Findings of the Association for Computational Linguistics: ACL 2025"
   link:
     url: https://aclanthology.org/2025.findings-acl.233/
     display: \[Paper\]
@@ -13,7 +28,7 @@
 - title: "Explaining Puzzle Solutions in Natural Language: An Exploratory Study on 6x6 Sudoku"
   authors: <mark>A Maiya</mark>, R Alghamdi <mark>ML Pacheco</mark>, A Trivedi, F Somenzi
   highlight: 0
-  venue: "Findings of the Association for Computational Linguistics: ACL 2025 (to appear)"
+  venue: "Findings of the Association for Computational Linguistics: ACL 2025"
   link:
     url: https://aclanthology.org/2025.findings-acl.155/
     display: \[Paper\]
