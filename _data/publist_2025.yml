@@ -40,7 +40,7 @@
 - title: "Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs"
   authors: <mark>A Raut</mark>, X Zhu, <mark>ML Pacheco</mark>
   highlight: 0
-  venue: "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025, to appear)"
+  venue: "Proceedings of the 1st Joint Workshop on Large Language Models and Structure Modeling (XLLM 2025)"
   link:
     url: https://aclanthology.org/2025.xllm-1.16/
     display: \[Paper\]
