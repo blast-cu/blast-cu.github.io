@@ -19,7 +19,7 @@ NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/).
 
 #### My Work
 
-I primarily work on Natural Language Processing, Machine Learning and Computational Social Science. I study and develop methods to integrate structured knowledge and machine learning for NLP, with a focus on discourse modeling tasks. I am also broadly interested in applications of NLP for human factors (e.g., transparency, fairness, safety) and socio-technical systems (e.g., science communication and discovery, media distribution and analysis, educational applications, collaboration frameworks). I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For more information, see my [full list of publications](https://blast-cu.github.io/publications/).
+I primarily work on Natural Language Processing, Machine Learning and Computational Social Science. I study and develop methods to integrate structured knowledge and machine learning for NLP, with a focus on discourse modeling tasks. I am also broadly interested in human factors for language technology (e.g., trust, safety, collaboration) and NLP for socio-technical systems (e.g., science communication and discovery, media distribution and analysis). I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For more information, see my [full list of publications](https://blast-cu.github.io/publications/).
 
 #### Interested in working with me?
 
