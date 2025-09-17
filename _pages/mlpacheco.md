@@ -9,7 +9,7 @@ permalink: /mlpacheco/
 
 #### About Me
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder. I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) research group, and collaborate with amazing colleagues and students in the broader [Boulder NLP community](https://www.colorado.edu/research/bouldernlp/). I am also a Faculty Fellow at CU's [Institute of Cognitive Science](https://www.colorado.edu/ics/), and affiliated faculty in the [Department of Information Science](https://www.colorado.edu/cmci/infoscience).
+I am an Assistant Professor in the [Department of Computer Science](https://www.colorado.edu/cs/) at the University of Colorado Boulder, where I lead the [Boulder Language and Social Technologies](https://blast-cu.github.io/) research group. I am fortunate to be part of the thriving [Boulder NLP community](https://www.colorado.edu/research/bouldernlp/), working alongside outstanding colleagues and students. I also am a Faculty Fellow at CU's [Institute of Cognitive Science](https://www.colorado.edu/ics/), and affiliated faculty in the [Department of Information Science](https://www.colorado.edu/cmci/infoscience).
 
 Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
 NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at [Purdue University](https://www.cs.purdue.edu/), and my BSc. in Computer Science and Engineering at the [Universidad Simon Bolivar](http://www.usb.ve/) in Caracas, Venezuela, where I was born and raised. 
@@ -19,7 +19,7 @@ NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/).
 
 #### My Work
 
-I primarily work on Natural Language Processing, Machine Learning and Computational Social Science. I study and develop methods to integrate structured knowledge and machine learning for NLP, with a focus on discourse modeling tasks. I am also broadly interested in human factors for language technology (e.g., trust, safety, collaboration) and NLP for socio-technical systems (e.g., science communication and discovery, media distribution and analysis). I am a strong believer in interdisciplinary, collaborative work. I actively collaborate with researchers in linguistics, human-computer interaction, formal methods, security, bioinformatics, and the behavioral and social sciences. For more information, see my [full list of publications](https://blast-cu.github.io/publications/).
+I work at the intersection of Natural Language Processing (NLP), Machine Learning, and Computational Social Science. My research develops methods to integrate structured knowledge with machine learning for NLP, with a particular emphasis on discourse modeling. I am also broadly interested in human-centered aspects of language technology and in the use of NLP to study socio-technical systems. Collaboration across disciplines is central to my work. I work closely with researchers in linguistics, human-computer interaction, formal methods, security, biomedical informatics, and the behavioral and social sciences. For more details, please see my [full list of publications](https://blast-cu.github.io/publications/).
 
 #### Interested in working with me?
 
