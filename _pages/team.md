@@ -169,9 +169,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 - [Rohan Das](https://www.rohandas.net/) (2023). *PhD Student at the University of Colorado Boulder*.
 
 #### Informal Student Collaborators
-- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student. 
+- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student. *Software Engineer at Uber*.
 - [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student
-- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student. 
+- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student. *MLOps Engineer at Apple.*
 
 
 
