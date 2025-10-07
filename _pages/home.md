@@ -15,7 +15,8 @@ At BLAST we work on Natural Language Processing, Machine Learning and
 Computational Social Science. We are broadly interested in finding transparent and replicable insights to societally relevant problems through the computational analysis of language. In general, we are curious about:
 * What **language use** can tell us about **culture** and **society**
 * The study of **socio-technical systems**, from information ecosystems to team collaboration
-* **Theoretically-motivated methods** for analyzing **content at scale** in traditional and emerging media
-* **Human-centered** aspects of **language technology**, and how it can be used to complement rather than replace human processess 
+* **Theoretically-motivated approaches** for analyzing **content at scale** in traditional and emerging media
+* **Human-centered** aspects of **language technology**, and how it can be used to complement rather than replace human processess
+* Developing **computational methods** and **tools** that facilitate all of the above
 
 For more information, see our full list of [publications](https://blast-cu.github.io/publications/). 
