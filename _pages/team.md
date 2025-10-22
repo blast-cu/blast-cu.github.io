@@ -170,7 +170,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 
 #### Informal Student Collaborators
 - [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student. *Software Engineer at Uber*.
-- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student
+- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student. *Software Engineer at Spectrum.*
 - [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student. *MLOps Engineer at Apple.*
 
 
