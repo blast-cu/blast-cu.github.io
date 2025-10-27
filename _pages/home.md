@@ -20,3 +20,5 @@ Computational Social Science. We are broadly interested in finding transparent a
 * Developing **computational methods** and **tools** that facilitate all of the above
 
 For more information, see our full list of [publications](https://blast-cu.github.io/publications/). 
+
+<span style="color:red">We are **not** recruiting new PhD students.</span>
