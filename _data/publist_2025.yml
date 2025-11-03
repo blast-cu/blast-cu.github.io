@@ -2,6 +2,9 @@
   authors: <mark>B Sudharsan</mark>, <mark>ML Pacheco</mark>
   highlight: 0
   venue: "Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025, to appear)"
+  link:
+    url: https://aclanthology.org/2025.starsem-1.30/
+    display: \[Paper\]
   year: 2025
 
 - title: "All Entities are Not Created Equal: Examining the Long Tail for Fine-Grained Entity Typing"
@@ -9,8 +12,11 @@
   highlight: 0
   venue: "Proceedings of the 14th Joint Conference on Lexical and Computational Semantics (*SEM 2025, to appear)"
   link:
-    url: https://arxiv.org/abs/2410.17355
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2025.starsem-1.15/
+    display: \[Paper\]
+  code:
+    url: https://github.com/blast-cu/All-Entities-are-Not-Created-Equal
+    display: \[Code\]
   year: 2025
 
 - title: "CLIX: Cross-Lingual Explanations of Idiomatic Expressions"
