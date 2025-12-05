@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students), [Visitors](#visitors), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Master students](#master-students), [Affiliates](#affiliated), [Alumni](#alumni)
 
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -112,44 +112,12 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 </div>
 {% endif %}
 
-### Visitors
-
-{% assign number_printed = 0 %}
-
-{% for member in site.data.visitors %}
-
-{% assign even_odd = number_printed | modulo: 5 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-2 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
-
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 4 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 5 %}
-{% if even_odd != 0 %}
-</div>
-{% endif %}
 
 ### Affiliated Student Collaborators
 - [Juan Vasquez](), CS PhD Student, University of Colorado Boulder
 - [Advait Deshmukh](https://advaitdeshmukh.com/), CS PhD Student, University of Colorado Boulder
 - [Zohar Naaman](https://www.linkedin.com/in/zoharnaaman/), MS Linguistics Student, University of Colorado Boulder
+- [Niklas Hofstetter](https://www.linkedin.com/in/niklas-hofstetter-1662441b2/), BS Student, St. Pölten University of Applied Sciences
 
 ### Alumni 
 ##### *(First Position)*
