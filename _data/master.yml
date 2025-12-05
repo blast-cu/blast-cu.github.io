@@ -7,26 +7,11 @@
 #  education2:
 #  education3:
 #  education4:
-  
-- name: Advait Deshmukh
-  photo: advait.jpg
-  homepage: https://advaitdeshmukh.com/
-  info: Computer Science
-
-- name: Bagyasree Sudharsan
-  photo: blast_lab_bags.jpg
-  homepage: https://blast-cu.github.io/team/#master-students
-  info: Computer Science
 
 - name: Tavin Turner
   photo: TavinTurnerProfile.jpg
   homepage: https://www.ta.vin/
   info: Computer Science
-  
-- name: Zohar Naaman
-  photo: zohar.JPG
-  homepage: https://blast-cu.github.io/team/#master-students
-  info: Linguistics
 
 - name: Mreedul Gupta
   photo: mreedul.JPG
