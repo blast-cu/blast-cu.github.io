@@ -158,7 +158,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 - [Luna Peck](https://github.com/lunaria-bee) (2024-2025). "ConEm: Learning Embedded Concept Representations from LLMs". *PhD Student at the University of British Columbia*. 
 
 #### MS Independent Studies 
-- [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025) *Machine Learning Engineer at Intuit.*
+- [Bagyasree Sudharsan]() (2024-2025)
+- [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*.
+- [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025). *Machine Learning Engineer at Intuit.*
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025). *Software Engineer at Goldman Sachs.*
 - [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025). *Software Engineer at Commvault*.
@@ -169,9 +171,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 - [Rohan Das](https://www.rohandas.net/) (2023). *PhD Student at the University of Colorado Boulder*.
 
 #### Informal Student Collaborators
-- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student. *Software Engineer at Uber*.
-- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student. *Software Engineer at Spectrum.*
-- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student. *MLOps Engineer at Apple.*
+- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student (2024). *Software Engineer at Uber*.
+- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student (2024). *Software Engineer at Spectrum.*
+- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student (2024). *MLOps Engineer at Apple.*
 
 
 
