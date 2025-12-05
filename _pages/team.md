@@ -146,20 +146,19 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 </div>
 {% endif %}
 
+### Affiliated Student Collaborators
+- [Juan Vasquez](), CS PhD Student, University of Colorado Boulder
+- [Advait Deshmukh](https://advaitdeshmukh.com/), CS PhD Student, University of Colorado Boulder
+- [Zohar Naaman](https://www.linkedin.com/in/zoharnaaman/), MS Linguistics Student, University of Colorado Boulder
+
 ### Alumni 
 ##### *(First Position)*
 
-#### BS Senior Thesis
-- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025). "Evaluating LLM Robustness to Dialectal Variation in Spanish". 
-- [Tavin Turner](https://www.ta.vin/) (2024-2025). "Statutory Relational Stance Modeling". *MS Student at the University of Colorado Boulder*.
-
-#### MS Computational Linguistics Capstone Projects
-- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). "Effects of Collaboration on the Performance of Interactive Theme Discovery Systems".
-- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). "ConEm: Learning Embedded Concept Representations from LLMs". *PhD Student at the University of British Columbia*. 
-
-#### MS Independent Studies 
+#### MS Students
 - [Bagyasree Sudharsan]() (2024-2025)
 - [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*.
+- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025)
+- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*.
 - [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025). *Machine Learning Engineer at Intuit.*
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025). *Software Engineer at Goldman Sachs.*
@@ -170,7 +169,11 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Vis
 - [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024). *Software Engineer at Goldman Sachs.*
 - [Rohan Das](https://www.rohandas.net/) (2023). *PhD Student at the University of Colorado Boulder*.
 
-#### Informal Student Collaborators
+#### Undergraduate Students
+- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025)
+- [Tavin Turner](https://www.ta.vin/) (2024-2025). *MS Student at the University of Colorado Boulder*.
+
+#### Past Affiliates/Collaborators
 - [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student (2024). *Software Engineer at Uber*.
 - [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student (2024). *Software Engineer at Spectrum.*
 - [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student (2024). *MLOps Engineer at Apple.*
