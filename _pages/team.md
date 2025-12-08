@@ -114,7 +114,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 
 ### Affiliated Student Collaborators
-- [Juan Vasquez](), CS PhD Student, University of Colorado Boulder
+- [Juan Vasquez](https://juan-vasquez.com/), CS PhD Student, University of Colorado Boulder
 - [Advait Deshmukh](https://advaitdeshmukh.com/), CS PhD Student, University of Colorado Boulder
 - [Zohar Naaman](https://www.linkedin.com/in/zoharnaaman/), MS Linguistics Student, University of Colorado Boulder
 - [Niklas Hofstetter](https://www.linkedin.com/in/niklas-hofstetter-1662441b2/), BS Student, St. Pölten University of Applied Sciences
@@ -123,7 +123,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 ##### *(First Position)*
 
 #### MS Students
-- [Bagyasree Sudharsan]() (2024-2025)
+- [Bagyasree Sudharsan](https://bagyasree.com/) (2024-2025)
 - [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
 - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025)
 - [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*
