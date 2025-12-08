@@ -48,7 +48,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -66,12 +66,12 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 4 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd != 0 %}
 </div>
 {% endif %}
@@ -83,7 +83,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% for member in site.data.master %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 
 {% if even_odd == 0 %}
 <div class="row">
@@ -101,13 +101,13 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 4 %}
+{% if even_odd == 3 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 5 %}
+{% assign even_odd = number_printed | modulo: 4 %}
 {% if even_odd != 0 %}
 </div>
 {% endif %}
@@ -124,9 +124,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 #### MS Students
 - [Bagyasree Sudharsan]() (2024-2025)
-- [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*.
+- [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
 - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025)
-- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*.
+- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*
 - [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025). *Machine Learning Engineer at Intuit.*
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
 - [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025). *Software Engineer at Goldman Sachs.*
