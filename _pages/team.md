@@ -22,6 +22,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
   </ul>
 </div>
 </div>
+{% endfor %}
 
 ### PhD Students
 
