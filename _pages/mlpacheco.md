@@ -14,7 +14,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://www.
 Before joining CU, I was a Postdoctoral Researcher at [Microsoft Research
 NYC](https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/). I completed my PhD in Computer Science at [Purdue University](https://www.cs.purdue.edu/), and my BSc. in Computer Science and Engineering at the [Universidad Simon Bolivar](http://www.usb.ve/) in Caracas, Venezuela, where I was born and raised. 
 
-<span style="color:red">I am **not** recruiting new PhD students</span>.
+<span style="color:red">I am **not** accepting new PhD students for Fall 2026</span>.
 
 
 #### My Work
