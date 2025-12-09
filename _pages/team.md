@@ -14,7 +14,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% for member in site.data.faculty %}
 <div class="row">
-<div class="col-sm-6">
+<div class="col-xs-6 col-sm-2">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
@@ -62,7 +62,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 ### Master Students 
 
-div class="row">
+<div class="row">
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
 
