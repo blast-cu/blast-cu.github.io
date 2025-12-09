@@ -66,7 +66,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd != 0 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
 {% endfor %}
@@ -89,7 +89,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 <div class="row">
 {% endif %}
 
-<div class="col-xs-6 col-sm-3 clearfix">
+<div class="col-xs-6 col-sm-2 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
 
@@ -100,7 +100,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd != 0 %}
+{% if even_odd == 0 %}
 </div>
 {% endif %}
 
