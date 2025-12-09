@@ -11,37 +11,17 @@ permalink: /team/
 
 Jump to [PhD students](#phd-students), [Master students](#master-students), [Affiliates](#affiliated-student-collaborators), [Alumni](#alumni)
 
-{% assign number_printed = 0 %}
+
 {% for member in site.data.faculty %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 col-xs-6">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
-  <i>{{ member.info2 }}</i>
   <ul style="overflow: hidden">
-
   </ul>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ### PhD Students
 
@@ -81,38 +61,36 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 ### Master Students 
 
+div class="row">
 {% assign number_printed = 0 %}
-
 {% for member in site.data.master %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-xs-6 col-sm-2 clearfix">
+<div class="col-xs-6 col-sm-2">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
-
+  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
   <ul style="overflow: hidden">
-
   </ul>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 5 %}
-</div>
+{%- comment -%}
+  Break rows on XS: 2 per row (col-xs-6)
+{%- endcomment -%}
+{% assign xs_mod = number_printed | modulo: 2 %}
+{% if xs_mod == 0 %}
+  <div class="clearfix visible-xs-block"></div>
+{% endif %}
+
+{%- comment -%}
+  Break rows on SM+: 6 per row (col-sm-2)
+{%- endcomment -%}
+{% assign sm_mod = number_printed | modulo: 6 %}
+{% if sm_mod == 0 %}
+  <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
 {% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 6 %}
-{% if even_odd != 0 %}
 </div>
-{% endif %}
-
 
 ### Affiliated Student Collaborators
 - [Juan Vasquez](https://juan-vasquez.com/), CS PhD Student, University of Colorado Boulder
