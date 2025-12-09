@@ -58,10 +58,25 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
   </ul>
 </div>
-
 {% assign number_printed = number_printed | plus: 1 %}
-{% endfor %}
 
+{%- comment -%}
+  Break rows on XS: 2 per row (col-xs-6)
+{%- endcomment -%}
+{% assign xs_mod = number_printed | modulo: 2 %}
+{% if xs_mod == 0 %}
+  <div class="clearfix visible-xs-block"></div>
+{% endif %}
+
+{%- comment -%}
+  Break rows on SM+: 6 per row (col-sm-2)
+{%- endcomment -%}
+{% assign sm_mod = number_printed | modulo: 6 %}
+{% if sm_mod == 0 %}
+  <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
+{% endif %}
+
+{% endfor %}
 </div>
 
 ### Master Students 
