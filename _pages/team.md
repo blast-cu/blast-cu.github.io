@@ -14,7 +14,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 
 {% for member in site.data.faculty %}
 <div class="row">
-<div class="col-xs-6 col-sm-2">
+<div class="col-xs-6 col-sm-3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
 </div>
 <div class="row">
@@ -32,7 +32,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
-<div class="col-xs-6 col-sm-2">
+<div class="col-xs-6 col-sm-3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
    <p>{{ member.advised }}</p>
@@ -52,9 +52,9 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% endif %}
 
 {%- comment -%}
-  Break rows on SM+: 6 per row (col-sm-2)
+  Break rows on SM+: 4 per row (col-sm-3)
 {%- endcomment -%}
-{% assign sm_mod = number_printed | modulo: 6 %}
+{% assign sm_mod = number_printed | modulo: 4 %}
 {% if sm_mod == 0 %}
   <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
 {% endif %}
@@ -68,7 +68,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% assign number_printed = 0 %}
 {% for member in site.data.master %}
 
-<div class="col-xs-6 col-sm-2">
+<div class="col-xs-6 col-sm-3">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
   <ul style="overflow: hidden">
@@ -85,9 +85,9 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% endif %}
 
 {%- comment -%}
-  Break rows on SM+: 6 per row (col-sm-2)
+  Break rows on SM+: 4 per row (col-sm-3)
 {%- endcomment -%}
-{% assign sm_mod = number_printed | modulo: 6 %}
+{% assign sm_mod = number_printed | modulo: 4 %}
 {% if sm_mod == 0 %}
   <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
 {% endif %}
