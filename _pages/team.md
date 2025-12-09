@@ -15,7 +15,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% for member in site.data.faculty %}
 <div class="row">
 <div class="col-xs-6 col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="30%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
   <i>{{ member.info }}</i>
   <ul style="overflow: hidden">
