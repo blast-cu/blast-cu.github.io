@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master students](#master-students), [Affiliates](#affiliated-student-collaborators), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Master's students](#master-students), [Affiliates](#affiliated-student-collaborators), [Alumni](#alumni)
 
 
 {% for member in site.data.faculty %}
@@ -60,7 +60,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 {% endfor %}
 </div>
 
-### Master Students 
+### Master's Students 
 
 <div class="row">
 {% assign number_printed = 0 %}
@@ -102,7 +102,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 ### Alumni 
 ##### *(First Position)*
 
-#### MS Students
+#### Master's Students
 - [Bagyasree Sudharsan](https://bagyasree.com/) (2024-2025)
 - [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
 - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025)
