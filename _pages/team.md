@@ -66,7 +66,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 0 %}
+{% if even_odd == 5 %}
 </div>
 {% endif %}
 {% endfor %}
@@ -100,7 +100,7 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 0 %}
+{% if even_odd == 5 %}
 </div>
 {% endif %}
 
