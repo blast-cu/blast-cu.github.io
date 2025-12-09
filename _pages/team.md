@@ -15,7 +15,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% for member in site.data.faculty %}
 <div class="row">
 <div class="col-xs-6 col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="80%" style="float: left" />
 </div>
 <div class="row">
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4> 
@@ -33,7 +33,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% for member in site.data.phd %}
 
 <div class="col-xs-6 col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="80%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
    <p>{{ member.advised }}</p>
 
@@ -69,7 +69,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 {% for member in site.data.master %}
 
 <div class="col-xs-6 col-sm-3">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="80%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
   <ul style="overflow: hidden">
   </ul>
