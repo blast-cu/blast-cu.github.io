@@ -45,16 +45,11 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 
 ### PhD Students
 
+<div class="row">
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-xs-6 col-sm-2 clearfix">
+<div class="col-xs-6 col-sm-2">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
    <p>{{ member.advised }}</p>
@@ -65,17 +60,9 @@ Jump to [PhD students](#phd-students), [Master students](#master-students), [Aff
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 5 %}
-</div>
-{% endif %}
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 6 %}
-{% if even_odd != 0 %}
 </div>
-{% endif %}
-
 
 ### Master Students 
 
