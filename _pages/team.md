@@ -107,7 +107,7 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 #### Master's Students
 - [Bagyasree Sudharsan](https://bagyasree.com/) (2024-2025)
 - [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
-- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025)
+- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Chief Product Officer at Velin*
 - [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*
 - [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025). *Machine Learning Engineer at Intuit.*
 - [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
