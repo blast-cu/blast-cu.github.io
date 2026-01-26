@@ -1,13 +1,13 @@
-- title: "Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions"
-  authors: <mark>ML Pacheco</mark>, F Somenzi, <mark>D Srinivas</mark>, A Trivedi <i>(Authors ordered alphabetically by last name.)</i>
+- title: "Logical-CommonsenseQA: A Benchmark for Logical Commonsense Reasoning"
+  authors: <mark>O Junias</mark>, <mark>ML Pacheco</mark>
   highlight: 0
   link: 
-    url: https://arxiv.org/abs/2508.14294
+    url: https://arxiv.org/abs/2601.16504
     display: \[Pre-print\]
-  year: 2025
+  year: 2026
 
-- title: "Studying the Effects of Collaboration in Interactive Theme Discovery Systems"
-  authors: <mark>A Chen</mark>, <mark>D Srinivas</mark>, <mark>A Barry</mark>, <mark>M Seniw</mark>, <mark>ML Pacheco</mark>
+- title: "Effects of Collaboration on the Performance of Interactive Theme Discovery Systems"
+  authors: <mark>A Chen</mark>, <mark>R Das</mark>, <mark>D Srinivas</mark>, <mark>A Barry</mark>, <mark>M Seniw</mark>, <mark>ML Pacheco</mark>
   highlight: 0
   link:
     url: https://arxiv.org/abs/2408.09030
@@ -15,6 +15,14 @@
   code:
     url: https://github.com/blast-cu/interactive-systems
     display: \[Code & Data\]
+  year: 2026
+
+- title: "Explaining Hitori Puzzles: Neurosymbolic Proof Staging for Sequential Decisions"
+  authors: <mark>ML Pacheco</mark>, F Somenzi, <mark>D Srinivas</mark>, A Trivedi <i>(Authors ordered alphabetically by last name.)</i>
+  highlight: 0
+  link: 
+    url: https://arxiv.org/abs/2508.14294
+    display: \[Pre-print\]
   year: 2025
 
 - title: "Show, Don't Tell: Learning Reward Machines from Demonstrations for Reinforcement Learning-Based Cardiac Pacemaker Synthesis"
