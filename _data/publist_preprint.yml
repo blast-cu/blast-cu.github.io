@@ -4,6 +4,9 @@
   link: 
     url: https://arxiv.org/abs/2601.16504
     display: \[Pre-print\]
+  code: 
+    url: https://github.com/obedjunias19/logical-csqa
+    display: \[Code & Data\]
   year: 2026
 
 - title: "Effects of Collaboration on the Performance of Interactive Theme Discovery Systems"
