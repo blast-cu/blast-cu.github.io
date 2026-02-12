@@ -1,3 +1,13 @@
+- title: "CLEVR-3D-DeRef: A Benchmark for Robust 3D Spatial Reasoning with De-Identified Referring Expressions"
+  authors: <mark>M Martin</mark>, M Palmer, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 15th Language Resources and Evaluation Conference (LREC 2026, to appear)"
+  link:
+    url:
+    display: 
+  year: 2026
+
+
 - title: "Mapping the Course for Prompt-based Structured Prediction"
   authors: <mark>M Pauk</mark>, <mark>ML Pacheco</mark>
   highlight: 0
