@@ -1,3 +1,12 @@
+- title: "TubeCensus: A Transparent, Replicable, and Large-Scale Census of YouTube Channels and their Subscriber Counts Over Time"
+  authors: <mark>C Eggleston</mark>, A Handler, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026, to appear)"
+  link:
+    url:
+    display: 
+  year: 2026
+
 - title: "CLEVR-3D-DeRef: A Benchmark for Robust 3D Spatial Reasoning with De-Identified Referring Expressions"
   authors: <mark>M Martin</mark>, M Palmer, <mark>ML Pacheco</mark>
   highlight: 0
