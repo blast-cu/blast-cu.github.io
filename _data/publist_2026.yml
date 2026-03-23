@@ -22,6 +22,6 @@
   highlight: 0
   venue: "Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026, to appear)"
   link:
-    url: https://arxiv.org/abs/2508.15090
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2026.eacl-long.160/
+    display: \[Paper\]
   year: 2026
