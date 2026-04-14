@@ -15,8 +15,11 @@
   highlight: 0
   venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, to appear)"
   link:
-    url: https://arxiv.org/pdf/2604.10368
+    url: https://arxiv.org/abs/2604.10368
     display: \[Pre-print\]
+  code:
+    url: https://github.com/blast-cu/structured-clustering-for-narratives
+    display:  \[Code\]
   year: 2026
 
 - title: "Logical-CommonsenseQA: A Benchmark for Logical Commonsense Reasoning"
