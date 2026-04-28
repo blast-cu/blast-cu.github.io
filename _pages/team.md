@@ -96,15 +96,24 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 </div>
 
 ### Affiliated Student Collaborators
+- [Henry Radovich](https://www.linkedin.com/in/henry-radovich-25896023a/), CS Undergraduate Student, University of Colorado Boulder
+- [Ronald Jangam](https://blast-cu.github.io/team/#affiliated-student-collaborators), CS Undergraduate Student, University of Colorado Boulder
 - [Juan Vasquez](https://juan-vasquez.com/), CS PhD Student, University of Colorado Boulder
 - [Advait Deshmukh](https://advaitdeshmukh.com/), CS PhD Student, University of Colorado Boulder
 - [Zohar Naaman](https://www.linkedin.com/in/zoharnaaman/), MS Linguistics Student, University of Colorado Boulder
 - [Niklas Hofstetter](https://www.linkedin.com/in/niklas-hofstetter-1662441b2/), BS Student, St. Pölten University of Applied Sciences
 
+
 ### Alumni 
 ##### *(First Position)*
 
 #### Master's Students
+- [Mreedul Gupta](https://www.linkedin.com/in/mreedul-gupta/) (2025-2026). *AI Systems Engineer at Lockheed Martin Space*
+- [Obed Junias](https://obedjunias.com/) (2025-2026)
+- [Prajakta Kini](https://prajaktakini.github.io/) (2025-2026)
+- [Grayson Hubbell](https://www.linkedin.com/in/graysonth/) (2025-2026)
+- [Saksham Khatwani](https://www.linkedin.com/in/saksham-khatwani/) (2025-2026). *NLP Scientist at CU Anschutz*
+- [Tavin Turner](https://www.ta.vin/) (2025). *Software Engineer at Ibotta*
 - [Bagyasree Sudharsan](https://bagyasree.com/) (2024-2025)
 - [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
 - [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Chief Product Officer at Velin*
