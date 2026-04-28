@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master's students](#master-students), [Affiliates](#affiliated-student-collaborators), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collaborators), [Alumni](#alumni)
 
 
 {% for member in site.data.faculty %}
@@ -39,39 +39,6 @@ Jump to [PhD students](#phd-students), [Master's students](#master-students), [A
 
   <ul style="overflow: hidden">
 
-  </ul>
-</div>
-{% assign number_printed = number_printed | plus: 1 %}
-
-{%- comment -%}
-  Break rows on XS: 2 per row (col-xs-6)
-{%- endcomment -%}
-{% assign xs_mod = number_printed | modulo: 2 %}
-{% if xs_mod == 0 %}
-  <div class="clearfix visible-xs-block"></div>
-{% endif %}
-
-{%- comment -%}
-  Break rows on SM+: 6 per row (col-sm-2)
-{%- endcomment -%}
-{% assign sm_mod = number_printed | modulo: 6 %}
-{% if sm_mod == 0 %}
-  <div class="clearfix visible-sm-block visible-md-block visible-lg-block"></div>
-{% endif %}
-
-{% endfor %}
-</div>
-
-### Master's Students 
-
-<div class="row">
-{% assign number_printed = 0 %}
-{% for member in site.data.master %}
-
-<div class="col-xs-6 col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
-  <h4><a href="{{member.homepage}}">{{ member.name }}</a></h4>
-  <ul style="overflow: hidden">
   </ul>
 </div>
 {% assign number_printed = number_printed | plus: 1 %}
