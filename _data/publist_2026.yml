@@ -3,8 +3,8 @@
   highlight: 0
   venue: "Proceedings of the 7th Workshop on Natural Language Processing and Computational Social Science (NLP+CSS 2026, to appear)"
   link:
-    url:
-    display: 
+    url: https://github.com/blast-cu/metaphor-detector
+    display: \[Code\]
   year: 2026
 
 - title: "Effects of Collaboration on the Performance of Interactive Theme Discovery Systems"
