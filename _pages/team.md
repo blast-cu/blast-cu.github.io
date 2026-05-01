@@ -72,7 +72,7 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 ##### *(First Position)*
 
 #### Master's Students
-{% for member in site.data.collaborators %}
+{% for member in site.data.alumni_ms %}
 - [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
 {% endfor %}
 
