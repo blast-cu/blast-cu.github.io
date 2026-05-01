@@ -63,7 +63,7 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 </div>
 
 ### Affiliated Student Collaborators
-{% for member in site.data.collaborators %}
+{%- for member in site.data.collaborators -%}
 - [{{ member.name }}]({{ member.homepage }}), {{ member.position }}, {{ member.institution }}
 {% endfor %}
 
@@ -72,13 +72,14 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 ##### *(First Position)*
 
 #### Master's Students
-{% for member in site.data.alumni_ms %}
+{%- for member in site.data.alumni_ms -%}
 - [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
 {% endfor %}
 
 #### Undergraduate Students
-- [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025)
-- [Tavin Turner](https://www.ta.vin/) (2024-2025). *MS Student at the University of Colorado Boulder*.
+{%- for member in site.data.alumni_bs -%}
+- [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
+{% endfor %}
 
 #### Past Affiliates/Collaborators
 - [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student (2024). *Software Engineer at Uber*.
