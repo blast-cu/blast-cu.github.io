@@ -63,7 +63,7 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 </div>
 
 ### Affiliated Student Collaborators
-{%- for member in site.data.collaborators -%}
+{% for member in site.data.collaborators -%}
 - [{{ member.name }}]({{ member.homepage }}), {{ member.position }}, {{ member.institution }}
 {% endfor %}
 
@@ -72,19 +72,19 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 ##### *(First Position)*
 
 #### Master's Students
-{%- for member in site.data.alumni_ms -%}
+{% for member in site.data.alumni_ms -%}
 - [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
 {% endfor %}
 
 #### Undergraduate Students
-{%- for member in site.data.alumni_bs -%}
+{% for member in site.data.alumni_bs -%}
 - [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
 {% endfor %}
 
 #### Past Affiliates/Collaborators
-- [Kyle Shi](https://www.linkedin.com/in/kyleshi/), CS Undergraduate Student (2024). *Software Engineer at Uber*.
-- [Maksim Seniw](https://maksimseniw.com/), CS Undergraduate Student (2024). *Software Engineer at Spectrum.*
-- [Brandon Perez](https://www.linkedin.com/in/brandon-a-perez/), CS Undergraduate Student (2024). *MLOps Engineer at Apple.*
+{% for member in site.data.alumni_collaborators -%}
+- [{{ member.name }}]({{ member.homepage }}), {{ member.affiliation }} ({{ member.period }}). *{{ member.position }}*
+{% endfor %}
 
 
 
