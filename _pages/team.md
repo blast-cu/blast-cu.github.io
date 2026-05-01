@@ -63,12 +63,9 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 </div>
 
 ### Affiliated Student Collaborators
-- [Henry Radovich](https://www.linkedin.com/in/henry-radovich-25896023a/), CS Undergraduate Student, University of Colorado Boulder
-- [Ronald Jangam](https://blast-cu.github.io/team/#affiliated-student-collaborators), CS Undergraduate Student, University of Colorado Boulder
-- [Juan Vasquez](https://juan-vasquez.com/), CS PhD Student, University of Colorado Boulder
-- [Advait Deshmukh](https://advaitdeshmukh.com/), CS PhD Student, University of Colorado Boulder
-- [Zohar Naaman](https://www.linkedin.com/in/zoharnaaman/), MS Linguistics Student, University of Colorado Boulder
-- [Niklas Hofstetter](https://www.linkedin.com/in/niklas-hofstetter-1662441b2/), BS Student, St. Pölten University of Applied Sciences
+{% for member in site.data.collaborators %}
+- [{{ member.name }}]({{ member.homepage }}), {{ member.position }}, {{ member.institution }}
+{% endfor %}
 
 
 ### Alumni 
