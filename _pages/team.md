@@ -72,25 +72,9 @@ Jump to [PhD students](#phd-students), [Affiliates](#affiliated-student-collabor
 ##### *(First Position)*
 
 #### Master's Students
-- [Mreedul Gupta](https://www.linkedin.com/in/mreedul-gupta/) (2025-2026). *AI Systems Engineer at Lockheed Martin Space*
-- [Obed Junias](https://obedjunias.com/) (2025-2026)
-- [Prajakta Kini](https://prajaktakini.github.io/) (2025-2026)
-- [Grayson Hubbell](https://www.linkedin.com/in/graysonth/) (2025-2026)
-- [Saksham Khatwani](https://www.linkedin.com/in/saksham-khatwani/) (2025-2026). *NLP Scientist at CU Anschutz*
-- [Tavin Turner](https://www.ta.vin/) (2025). *Software Engineer at Ibotta*
-- [Bagyasree Sudharsan](https://bagyasree.com/) (2024-2025)
-- [Advait Deshmukh](https://advaitdeshmukh.com/) (2024-2025). *PhD Student at the University of Colorado Boulder.*
-- [Alvin Chen](https://alvin-pc-chen.github.io/) (2024-2025). *Chief Product Officer at Velin*
-- [Luna Peck](https://github.com/lunaria-bee) (2024-2025). *PhD Student at the University of British Columbia.*
-- [Denzil Ekow Bilson](https://www.linkedin.com/in/denzilbilson/) (2023-2025). *Machine Learning Engineer at Intuit.*
-- [Karthik Sairam](https://karthiksairam01.github.io/) (2025)
-- [Ashwin Umadi](https://ashwinumadi.github.io/) (2024-2025). *Software Engineer at Goldman Sachs.*
-- [Anirudh Maiya](https://anirudhmaiya.github.io/) (2024-2025). *Software Engineer at Commvault*.
-- [Ankush Raut](https://www.linkedin.com/in/ankush-raut-3ab09b113/) (2024-2025). *Applied Scientist at Microsoft*. 
-- [Daksha Singhal](https://github.com/sonofposeidon1999) (2024-2025). *Software Engineer at Aurum Data Solutions Inc.*
-- [Matt Pauk](https://blast-cu.github.io/team/#phd-students) (2023-2025). *PhD Student at the University of Colorado Boulder*.
-- [Aditya Chandra](https://www.linkedin.com/in/acprime96/) (2023-2024). *Software Engineer at Goldman Sachs.*
-- [Rohan Das](https://www.rohandas.net/) (2023). *PhD Student at the University of Colorado Boulder*.
+{% for member in site.data.collaborators %}
+- [{{ member.name }}]({{ member.homepage }}) ({{ member.period }}). *{{ member.position }}*
+{% endfor %}
 
 #### Undergraduate Students
 - [Alexandra Barry](https://www.linkedin.com/in/alexandra-barry1/) (2024-2025)
