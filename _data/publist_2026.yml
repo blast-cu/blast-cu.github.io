@@ -1,3 +1,12 @@
+- title: "A First Step towards Dialog Simulation with Grounded Dialog Graphs"
+  authors: M Ginn, <mark>M Pauk</mark>, T Reese, S Gupta, G Castelucci, K Small, A Moschitti, D Palmer, M Palmer, A Palmer, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 2nd Joint Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences and Computational Models of Reference, Anaphora and Coreference (CODI-CRAC 2026, to appear)"
+  link:
+    url:
+    display:
+  year: 2026
+
 - title: "Toward Unsupervised Conceptual Metaphor Discovery: A Case Study in Online Immigration Discourse"
   authors: <mark>A Leto</mark>, <mark>ML Pacheco</mark>
   highlight: 0
