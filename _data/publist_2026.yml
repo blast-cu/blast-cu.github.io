@@ -66,8 +66,11 @@
   highlight: 0
   venue: "Proceedings of the 20th International AAAI Conference on Web and Social Media (ICWSM 2026, to appear)"
   link:
-    url: https://arxiv.org/abs/2605.06999
-    display: \[Pre-print\]
+    url: https://ojs.aaai.org/index.php/ICWSM/article/view/42782
+    display: \[Paper\]
+  code: 
+    url: https://github.com/blast-cu/tubecensus
+    display: \[Code & Data\]
   year: 2026
 
 - title: "CLEVR-3D-DeRef: A Benchmark for Robust 3D Spatial Reasoning with De-Identified Referring Expressions"
