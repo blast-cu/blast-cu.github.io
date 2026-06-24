@@ -21,8 +21,8 @@
   highlight: 0
   venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, to appear)"
   link:
-    url: https://arxiv.org/abs/2408.09030
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2026.acl-long.1968/
+    display: \[Paper\]
   code:
     url: https://github.com/blast-cu/interactive-systems
     display: \[Code & Data\]
@@ -33,8 +33,8 @@
   highlight: 0
   venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, to appear)"
   link:
-    url: https://arxiv.org/abs/2604.10368
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2026.acl-long.1970/
+    display: \[Paper\]
   code:
     url: https://github.com/blast-cu/structured-clustering-for-narratives
     display:  \[Code\]
@@ -45,8 +45,8 @@
   highlight: 0
   venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, to appear)"
   link: 
-    url: https://arxiv.org/abs/2601.16504
-    display: \[Pre-print\]
+    url: https://aclanthology.org/2026.acl-short.61/
+    display: \[Paper\]
   code: 
     url: https://github.com/obedjunias19/logical-csqa
     display: \[Code & Data\]
@@ -57,8 +57,11 @@
   highlight: 0
   venue: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026, to appear)"
   link:
-    url:
-    display: 
+    url: https://aclanthology.org/2026.acl-long.781/
+    display: \[Paper\]
+  code: 
+    url: https://github.com/ACNLPlab/translationese-classification
+    display: \[Code\]
   year: 2026
 
 - title: "TubeCensus: A Transparent, Replicable, and Large-Scale Census of YouTube Channels and their Subscriber Counts Over Time"
