@@ -1,5 +1,13 @@
+- title: "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing"
+  authors: <mark>M Gupta</mark>, <mark>A Deshmukh</mark>, <mark>M Pauk</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  link: 
+    url: https://arxiv.org/abs/2606.27598
+    display: \[Pre-print\]
+  year: 2026
+  
 - title: "SciIntBench: Measuring LLM Compliance with Research Integrity Norms Under Adversarial Framing"
-  authors: A.D.M. Meguimtsop, D.E. Acuna, <mark>ML Pacheco</mark>
+  authors: ADM Meguimtsop, DE Acuna, <mark>ML Pacheco</mark>
   highlight: 0
   link: 
     url: https://arxiv.org/abs/2605.29468
