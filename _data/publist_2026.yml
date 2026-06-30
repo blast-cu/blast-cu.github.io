@@ -10,8 +10,11 @@
 - title: "Toward Unsupervised Conceptual Metaphor Discovery: A Case Study in Online Immigration Discourse"
   authors: <mark>A Leto</mark>, <mark>ML Pacheco</mark>
   highlight: 0
-  venue: "Proceedings of the 7th Workshop on Natural Language Processing and Computational Social Science (NLP+CSS 2026, to appear)"
+  venue: "Proceedings of the 7th Workshop on Natural Language Processing and Computational Social Science (NLP+CSS 2026)"
   link:
+    url: https://aclanthology.org/2026.nlpcss-1.11/
+    display: \[Paper\]
+  code:
     url: https://github.com/blast-cu/metaphor-detector
     display: \[Code\]
   year: 2026
@@ -83,6 +86,9 @@
   link: 
     url: https://lrec.elra.info/lrec2026-main-745
     display: \[Paper\]
+  code:
+    url: https://github.com/mary-martin/CLEVR-3D-DeRef
+    display: \[Code & Data\]
   year: 2026
 
 
