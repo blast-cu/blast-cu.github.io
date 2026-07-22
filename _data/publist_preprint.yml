@@ -7,7 +7,7 @@
   year: 2026
   
 - title: "SciIntBench: Measuring LLM Compliance with Research Integrity Norms Under Adversarial Framing"
-  authors: ADM Meguimtsop, DE Acuna, <mark>ML Pacheco</mark>
+  authors: ADM Meguimtsop, <mark>ML Pacheco</mark>, DE Acuna
   highlight: 0
   link: 
     url: https://arxiv.org/abs/2605.29468
