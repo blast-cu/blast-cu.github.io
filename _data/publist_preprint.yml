@@ -6,6 +6,21 @@
     display: \[Pre-print\]
   year: 2026
 
+- title: "From Atomic Evidence to Logical Composition: Structured Compositional Reasoning over Compound Answer Options"
+  authors: <mark>O Junias</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  link: 
+    url: https://arxiv.org/abs/2608.12836
+    display: \[Pre-print\]
+  year: 2026
+
+- title: "Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity"
+  authors: <mark>D Srinivas</mark>, <mark>S Khatwani</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  link: 
+    url: https://arxiv.org/abs/2608.13484
+    display: \[Pre-print\]
+  year: 2026
 
 - title: "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing"
   authors: <mark>M Gupta</mark>, <mark>A Deshmukh</mark>, <mark>A Umadi</mark>, <mark>M Pauk</mark>, <mark>ML Pacheco</mark>
