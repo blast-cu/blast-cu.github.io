@@ -21,4 +21,4 @@ Computational Social Science. We are broadly interested in finding transparent a
 
 For more information, see our full list of [publications](https://blast-cu.github.io/publications/). 
 
-<span style="color:red">We are **not** recruiting new PhD students.</span>
+<span style="color:red">We are **not** recruiting new PhD students for Fall 2027.</span>
