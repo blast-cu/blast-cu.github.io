@@ -98,7 +98,7 @@ Jump to [PhD students](#phd-students), [Undergraduate students](#undergraduate-s
 {% endfor %}
 </div>
 
-### Affiliated Student Collaborators
+### Affiliated Researchers and Student Collaborators
 {% for member in site.data.collaborators -%}
 - [{{ member.name }}]({{ member.homepage }}), {{ member.position }}, {{ member.institution }}
 {% endfor %}
