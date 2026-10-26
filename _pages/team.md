@@ -9,7 +9,7 @@ permalink: /team/
 ## Group Members
 
 
-Jump to [PhD students](#phd-students), [Master's students](#master's-students), [Undergraduate students](#undergraduate-students), [Affiliates](#affiliated-researchers), [Alumni](#alumni)
+Jump to [PhD students](#phd-students), [Master's students](#masters-students), [Undergraduate students](#undergraduate-students), [Affiliates](#affiliated-researchers), [Alumni](#alumni)
 
 
 {% for member in site.data.faculty %}
