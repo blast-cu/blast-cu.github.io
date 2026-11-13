@@ -1,3 +1,12 @@
+- title: "Narrative-UFET: Narrative Generation for Ultra-Fine Entity Typing"
+  authors: <mark>M Gupta</mark>, <mark>A Deshmukh</mark>, <mark>A Umadi</mark>, <mark>M Pauk</mark>, <mark>ML Pacheco</mark>
+  highlight: 0
+  venue: "Proceedings of the 20th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2027, to appear)"
+  link: 
+    url: https://arxiv.org/abs/2606.27598
+    display: \[Pre-print\]
+  year: 2026
+
 - title: "Lay-Language and Cross-Lingual Disparities in LLM Medical Diagnosis: A Case Study in Rheumatological Skin Conditions"
   authors: <mark>G Hubbell</mark>, <mark>Y Zhang</mark>, <mark>S Khatwani</mark>, S Sankaranarayanan, I Sriram, <mark>ML Pacheco</mark>
   highlight: 0
