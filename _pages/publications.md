@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## Publications
 
-Papers by BLAST members: [Pre-prints](#pre-prints), [2026](#2026), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2016-2019](#2016-2019)
+Papers by BLAST members: [Pre-prints](#pre-prints), [2027](#2027), [2026](#2026), [2025](#2025), [2024](#2024), [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2016-2019](#2016-2019)
 
 ### Pre-prints
 
@@ -18,6 +18,18 @@ Papers by BLAST members: [Pre-prints](#pre-prints), [2026](#2026), [2025](#2025)
   <b>{{ publi.title }}</b> <br />
   {{ publi.authors }} <br />
   ({{ publi.year }})<br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
+
+{% endfor %}
+
+### 2027
+
+{% for publi in site.data.publist_2027 %}
+
+  <b>{{ publi.title }}</b> <br />
+  {{ publi.authors }} <br />
+  <em>{{ publi.venue }}</em> <br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   <a href="{{ publi.code.url }}">{{ publi.code.display }}</a>
 
